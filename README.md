@@ -1,41 +1,26 @@
-[<img style="float:right;" alt="octocat" width="220px" src="assets/octocat.gif" />][myoctocat]
+# Hi <img width="35em" src="assets/hello.gif"> <br/> I'm Antonio Pantaleo
 
-# Hi 👋 <br/> I'm Antonio Pantaleo
+[<img style="float:right;" alt="octocat" width="220px" src="assets/octocat.png" />][myoctocat]
 
----
-
-## About 📄
-
-> ㅤ <!-- SPACE -->
-> I'm an iOS developer
->
-> Member of [Doug Devs][doug_devs] duo
-> ㅤ <!-- SPACE -->
+I'm an iOS developer
+Member of [Doug Devs][doug_devs] duo
 
 ## Coding 💻
 
-> ㅤ <!-- SPACE -->
-> TODO
->
-> #### I know:
->
-> ![Swift] ![Xcode] ![Cocoapods] ![Java] ![Python] ![MySQL] ![Firebase] ![Postgresql] ![Flask] ![Django] ![Heroku] ![FFMPEG] ![Tensorflow] ![Flutter] ![Git] ![TelegramBotApi] ![Dart] ![Keras] ![Vim] ![SQLite] ![Strapi]
-> ㅤ <!-- SPACE -->
+TODO
+
+#### I know:
+
+![Swift] ![Xcode] ![Cocoapods] ![Java] ![Python] ![MySQL] ![Firebase] ![Postgresql] ![Flask] ![Django] ![Heroku] ![FFMPEG] ![Tensorflow] ![Flutter] ![Git] ![TelegramBotApi] ![Dart] ![Keras] ![Vim] ![SQLite] ![Strapi]
 
 ## Hobbies 🏃🏽‍♂️
 
-> ㅤ <!-- SPACE -->
-> When I'm not coding, I like to run, drink a cold beer with friends and
-> make music. Here you can listen my original beat tape!
->
-> <iframe src="https://open.spotify.com/embed/album/3JfEDDdz9toGJe9KWnm8e8?theme=0" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-> ㅤ <!-- SPACE -->
+When I'm not coding, I like to run, drink a cold beer with friends and
+make music. Here you can listen my original beat tape!
 
 ## Find me 🔍
 
-> ㅤ <!-- SPACE -->
-> [![linkedin]][my-linkedin] [![instagram]][my-instagram] [![bandcamp]][my-bandcamp] [![spotify]][my-spotify] ![website]
-> ㅤ <!-- SPACE -->
+[![linkedin]][my-linkedin] [![instagram]][my-instagram] [![bandcamp]][my-bandcamp] [![spotify]][my-spotify] ![website]
 
 <!-- LINKS -->
 
