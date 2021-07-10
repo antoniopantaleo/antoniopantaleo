@@ -1,26 +1,29 @@
-# Hi <img width="35em" src="assets/hello.gif"> <br/> I'm Antonio Pantaleo
+[<img align="right" alt="octocat" width="300px" src="assets/octocat.png" />][myoctocat]
 
-[<img style="float:right;" alt="octocat" width="220px" src="assets/octocat.png" />][myoctocat]
+# Hi <img width="35px" src="assets/hello.gif"> <br/> I'm Antonio Pantaleo 
 
-I'm an iOS developer
-Member of [Doug Devs][doug_devs] duo
+> 25 years old developer based in Turin, Italy.
 
 ## Coding 💻
 
-TODO
+🎓 I've a master degree in computer engineering
 
-#### I know:
+📱 In my daily life I mainly work as a native iOS developer, but I love learning new things and challenge myself with different things
 
-![Swift] ![Xcode] ![Cocoapods] ![Java] ![Python] ![MySQL] ![Firebase] ![Postgresql] ![Flask] ![Django] ![Heroku] ![FFMPEG] ![Tensorflow] ![Flutter] ![Git] ![TelegramBotApi] ![Dart] ![Keras] ![Vim] ![SQLite] ![Strapi]
+🍺 When I'm not coding, I like to make music, run or go out with friends and take a cold beer
 
-## Hobbies 🏃🏽‍♂️
+#### Things I know
 
-When I'm not coding, I like to run, drink a cold beer with friends and
-make music. Here you can listen my original beat tape!
+![Swift] ![Xcode] ![Cocoapods] ![Java] ![Python] ![MySQL] ![Firebase] ![Postgresql]
+![Flask] ![Django] ![Heroku] ![FFMPEG] ![Dart] ![Tensorflow] ![Flutter] ![Git] 
+![TelegramBotApi] ![Keras] ![Vim] ![SQLite] ![Strapi]
 
-## Find me 🔍
+## 🔍 Find me 
 
-[![linkedin]][my-linkedin] [![instagram]][my-instagram] [![bandcamp]][my-bandcamp] [![spotify]][my-spotify] ![website]
+[![website]][my-website] [![linkedin]][my-linkedin]
+[![spotify]][my-spotify] [![bandcamp]][my-bandcamp] 
+
+<!-- -------------------------------------------------------------------------------------------------------------- -->
 
 <!-- LINKS -->
 
@@ -29,8 +32,8 @@ make music. Here you can listen my original beat tape!
 [myoctocat]: https://myoctocat.com
 [my-linkedin]: https://www.linkedin.com/in/antonio-pantaleo-6579b9180/
 [my-instagram]: TODO
-[my-bandcamp]: TODO
-[my-spotify]: TODO
+[my-bandcamp]: https://realcapecodd.bandcamp.com
+[my-spotify]: https://open.spotify.com/album/3JfEDDdz9toGJe9KWnm8e8
 
 <!-- LOGOS -->
 
