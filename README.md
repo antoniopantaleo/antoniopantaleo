@@ -1,6 +1,6 @@
 [<img align="right" alt="octocat" width="300px" src="assets/octocat.png" />][myoctocat]
 
-# Hi <img width="35px" src="assets/hello.gif"> <br/> I'm Antonio Pantaleo 
+# Hi <img width="35px" src="assets/hello.gif"> <br/> I'm Antonio Pantaleo
 
 > 25 years old developer based in Turin, Italy.
 
@@ -14,14 +14,14 @@
 
 #### Things I know
 
-![Swift] ![Xcode] ![Cocoapods] ![Java] ![Python] ![MySQL] ![Firebase] ![Postgresql]
-![Flask] ![Django] ![Heroku] ![FFMPEG] ![Dart] ![Tensorflow] ![Flutter] ![Git] 
-![TelegramBotApi] ![Keras] ![Vim] ![SQLite] ![Strapi]
+[![Swift]][link-swift] [![Xcode]][link-xcode] [![Cocoapods]][link-cocoapods] [![Java]][link-java] [![Python]][link-python] [![MySQL]][link-mysql] [![Firebase]][link-firebase] [![Postgresql]][link-postgres]
+[![Flask]][link-flask] [![Django]][link-django] [![Heroku]][link-heroku] [![FFMPEG]][link-ffmpeg] [![Dart]][link-dart] [![Tensorflow]][link-tensorflow] [![Flutter]][link-flutter] [![Git]][link-git]
+[![TelegramBotApi]][link-telegrambotapi] [![Keras]][link-keras] [![Vim]][link-vim] [![SQLite]][link-sqlite] [![Strapi]][link-strapi]
 
-## 🔍 Find me 
+## 🔍 Find me
 
 [![website]][my-website] [![linkedin]][my-linkedin]
-[![spotify]][my-spotify] [![bandcamp]][my-bandcamp] 
+[![spotify]][my-spotify] [![bandcamp]][my-bandcamp]
 
 <!-- -------------------------------------------------------------------------------------------------------------- -->
 
@@ -34,6 +34,27 @@
 [my-instagram]: TODO
 [my-bandcamp]: https://realcapecodd.bandcamp.com
 [my-spotify]: https://open.spotify.com/album/3JfEDDdz9toGJe9KWnm8e8
+[link-swift]: https://swift.org
+[link-xcode]: https://developer.apple.com/xcode/
+[link-cocoapods]: https://cocoapods.org/about
+[link-java]: https://www.java.com/it/
+[link-python]: https://www.python.org
+[link-mysql]: https://www.mysql.com/it/
+[link-firebase]: https://firebase.google.com/use-cases
+[link-postgres]: https://www.postgresql.org
+[link-flask]: https://flask.palletsprojects.com
+[link-django]: https://www.djangoproject.com
+[link-heroku]: https://www.heroku.com
+[link-ffmpeg]: https://ffmpeg.org/
+[link-dart]: https://dart.dev
+[link-tensorflow]: https://www.tensorflow.org
+[link-flutter]: https://flutter.dev
+[link-git]: https://git-scm.com
+[link-telegrambotapi]: https://core.telegram.org/bots/api
+[link-keras]: https://keras.io
+[link-vim]: http://www.vim.org
+[link-sqlite]: https://sqlite.org/index.html
+[link-strapi]: https://strapi.io
 
 <!-- LOGOS -->
 
