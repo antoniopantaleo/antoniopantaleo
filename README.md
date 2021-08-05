@@ -8,7 +8,7 @@
 
 🎓 I've a master degree in computer engineering
 
-📱 In my daily life I mainly work as a native iOS developer, but I love learning new things and challenge myself with different things
+📱 In my daily life I mainly work as a native iOS developer, but I love learning new things and challenge myself with different technologies
 
 🍺 When I'm not coding, I like to make music, run or go out with friends and take a cold beer
 
