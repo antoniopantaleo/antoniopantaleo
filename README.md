@@ -16,7 +16,7 @@
 
 [![Swift]][link-swift] [![Xcode]][link-xcode] [![Cocoapods]][link-cocoapods] [![Java]][link-java] [![Python]][link-python] [![MySQL]][link-mysql] [![Firebase]][link-firebase] [![Postgresql]][link-postgres]
 [![Flask]][link-flask] [![Django]][link-django] [![Heroku]][link-heroku] [![FFMPEG]][link-ffmpeg] [![Dart]][link-dart] [![Tensorflow]][link-tensorflow] [![Flutter]][link-flutter] [![Git]][link-git]
-[![TelegramBotApi]][link-telegrambotapi] [![Keras]][link-keras] [![Vim]][link-vim] [![SQLite]][link-sqlite] [![Strapi]][link-strapi]
+[![TelegramBotApi]][link-telegrambotapi] [![Keras]][link-keras] [![Vim]][link-vim] [![SQLite]][link-sqlite] [![Strapi]][link-strapi] [![GraphQL]][link-graphql]
 
 ## 🔍 Find me
 
@@ -55,6 +55,7 @@
 [link-vim]: http://www.vim.org
 [link-sqlite]: https://sqlite.org/index.html
 [link-strapi]: https://strapi.io
+[link-graphql]: https://graphql.org
 
 <!-- LOGOS -->
 
@@ -81,6 +82,7 @@
 [sqlite]: https://img.shields.io/badge/-sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
 [strapi]: https://img.shields.io/badge/-strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white
 [instagram]: https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[graphql]: https://img.shields.io/badge/-graphql-D249A6?logo=graphql&style=for-the-badge&logoColor=white
 [bandcamp]: https://img.shields.io/badge/bandcamp-408294?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNjMxcHgiIGhlaWdodD0iNjMxcHgiIHZpZXdCb3g9IjAgMCA2MzEgNjMxIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA1Mi40ICg2NzM3OCkgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+QXJ0Ym9hcmQ8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZyBpZD0iQXJ0Ym9hcmQiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJiYW5kY2FtcCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wMDAwMDAsIDEzOC4wMDAwMDApIiBmaWxsPSIjRkZGRkZGIj4KICAgICAgICAgICAgPHBvbHlnb24gaWQ9IlBhdGgiIHBvaW50cz0iMCAzNTYgMTk1LjUzMTEyNSAwIDYzMSAwIDQzNS40NDI1ODMgMzU2Ij48L3BvbHlnb24+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=
 [spotify]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 [website]: https://img.shields.io/badge/portfolio-2C2D30?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNjMxcHgiIGhlaWdodD0iNjMxcHgiIHZpZXdCb3g9IjAgMCA2MzEgNjMxIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA1Mi40ICg2NzM3OCkgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+QXJ0Ym9hcmQ8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZyBpZD0iQXJ0Ym9hcmQiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJwcm92aWRlcl9pbnRlcm5ldHN2ZyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNTEuMDAwMDAwLCA1Ni4wMDAwMDApIiBzdHJva2U9IiNGRkZGRkYiPgogICAgICAgICAgICA8ZyBpZD0iZzM4ODUiPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTUzMS4wNzY5NzgsMjU5LjQzNDAzNiBDNTMxLjA3Njk3OCw0MDIuMzM1MTUgNDEyLjMzNjM0OCw1MTguMTg4NTQ0IDI2NS44NDk3MjksNTE4LjE4ODU0NCBDMTE5LjM3NTgyNiw1MTguMTg4NTQ0IDAuNjIyNDgwNjYxLDQwMi4zNDI2OTcgMC42MjI0ODA2NjEsMjU5LjQzNDAzNiBDMC42MjI0ODA2NjEsMTE2LjUzMjkyMyAxMTkuMzYzMTEsMC42Nzk1MjkwNjMgMjY1Ljg0OTcyOSwwLjY3OTUyOTA2MyBDNDEyLjMyMzYzMiwwLjY3OTUyOTA2MyA1MzEuMDc2OTc4LDExNi41MjUzNzYgNTMxLjA3Njk3OCwyNTkuNDM0MDM2IFoiIGlkPSJwYXRoMjgxNiIgc3Ryb2tlLXdpZHRoPSIxNC4wMDA2MDgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTM4LjM5ODUzODQsMTI1Ljc0NjA0MiBMNDkwLjk2NDAxMiwxMjUuNzQ2MDQyIiBpZD0icGF0aDM1OTIiIHN0cm9rZS13aWR0aD0iMTQiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0zOC43OTgzODM4LDM4Ny40OTA5MzIgTDQ5NC42OTU1MzYsMzg3LjQ5MDkzMiIgaWQ9InBhdGgzNTkyLTIiIHN0cm9rZS13aWR0aD0iMTQiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0zLjU2NTc3MDgxLDI1OC42NTI3NzQgTDUyNy43NDI4OTksMjU4LjY1Mjc3NCIgaWQ9InBhdGgzNTkyLTItNSIgc3Ryb2tlLXdpZHRoPSIxNCI+PC9wYXRoPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTI2MS4yNjY2MzMsNTE1LjMzMjM5OCBMMjYxLjI2NjYzMyw4LjQzNTUwODg4IiBpZD0icGF0aDM1OTItNC00LTMiIHN0cm9rZS13aWR0aD0iMTQiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yNjEuMjY2NjMzLDUwNy41MTM4NDggQzk4LjMwMzU2OSw0NTEuMjMxOTE2IDcxLjI1NTc1NzYsOTguNjIyMjE5NiAyNjEuMjY2NjMzLDguNDM1NTA4ODgiIGlkPSJwYXRoMzU5Mi00LTQtMy0wIiBzdHJva2Utd2lkdGg9IjE0Ij48L3BhdGg+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMjYxLjI2NjYzMyw1MDcuNTEzODQ4IEM0NDkuOTI1MTE4LDQyNC4xMDgwOTMgNDQ5LjkyNTExOCw5OC42MjIyMTk2IDI2MS4yNjY2MzMsOC40MzU1MDg4OCIgaWQ9InBhdGgzNTkyLTQtNC0zLTgiIHN0cm9rZS13aWR0aD0iMTQiPjwvcGF0aD4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+
