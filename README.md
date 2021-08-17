@@ -4,7 +4,7 @@
 
 > 25 years old developer based in Turin, Italy.
 
-## Coding 💻
+## 💻 Coding
 
 🎓 I've a master degree in computer engineering
 
