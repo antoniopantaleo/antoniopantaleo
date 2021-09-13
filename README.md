@@ -10,6 +10,8 @@
 
 📱 In my daily life I mainly work as a native iOS developer, but I love learning new things and challenge myself with different technologies
 
+🛣 On the road to be a proficient full stack developer
+
 🍺 When I'm not coding, I like to make music, run or go out with friends and take a cold beer
 
 #### Things I know
