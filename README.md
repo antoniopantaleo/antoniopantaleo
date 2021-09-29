@@ -27,7 +27,45 @@
 
 ## ⭐️ Skills
 
-[![Swift]][link-swift] [![Java]][link-java] [![Python]][link-python] [![Dart]][link-dart] <!-- JS TS --> [![Xcode]][link-xcode] [![Cocoapods]][link-cocoapods]  [![MySQL]][link-mysql] [![Firebase]][link-firebase] [![Postgresql]][link-postgres] [![Flask]][link-flask] [![Django]][link-django] [![Heroku]][link-heroku] [![FFMPEG]][link-ffmpeg] [![Flutter]][link-flutter] [![Git]][link-git] [![TelegramBotApi]][link-telegrambotapi] [![Vim]][link-vim] [![SQLite]][link-sqlite] [![Strapi]][link-strapi] [![GraphQL]][link-graphql] [![html]][link-html] [![css]][link-css] [![javascript]][link-javascript] [![typescript]][link-typescript] [![nodejs]][link-nodejs] [![express]][link-express]
+#### Programming Languages
+
+[![Swift]][link-swift] [![Java]][link-java] [![Python]][link-python] [![Dart]][link-dart] [![typescript]][link-typescript] [![javascript]][link-javascript]
+
+#### Frontend
+
+[![html]][link-html] [![css]][link-css]
+
+#### Backend
+
+[![nodejs]][link-nodejs] [![express]][link-express] [![GraphQL]][link-graphql] [![Flask]][link-flask] [![Django]][link-django]
+
+#### Databases
+
+[![SQLite]][link-sqlite] [![MySQL]][link-mysql] [![Postgresql]][link-postgres]
+
+#### Backend As A Service (BaaS)
+
+[![Firebase]][link-firebase] [![Heroku]][link-heroku]
+
+#### Frameworks
+
+[![mocha]][link-mocha] [![selenium]][link-selenium] [![Flutter]][link-flutter] [![TelegramBotApi]][link-telegrambotapi] [![Cocoapods]][link-cocoapods] [![FFMPEG]][link-ffmpeg] [![socketio]][link-socketio]
+
+#### CMS 
+
+[![Strapi]][link-strapi]
+
+#### IDEs
+
+[![Xcode]][link-xcode] [![vscode]][link-vscode] [![android-studio]][link-android-studio]
+
+#### Text Editors
+
+[![sublime]][link-sublime] [![Vim]][link-vim] [![atom]][link-atom]
+
+#### DVCS
+
+[![Git]][link-git]
 
 <br/>
 
@@ -57,7 +95,6 @@
 [doug_devs]: https://github.com/doug-devs
 [myoctocat]: https://myoctocat.com
 [my-linkedin]: https://www.linkedin.com/in/antonio-pantaleo-6579b9180/
-[my-instagram]: TODO
 [my-bandcamp]: https://realcapecodd.bandcamp.com
 [my-spotify]: https://open.spotify.com/album/3JfEDDdz9toGJe9KWnm8e8
 [link-swift]: https://swift.org
@@ -86,11 +123,25 @@
 [link-typescript]: https://www.typescriptlang.org
 [link-nodejs]: https://nodejs.org
 [link-express]: http://expressjs.com
+[link-vscode]: https://code.visualstudio.com
+[link-mocha]: https://mochajs.org
+[link-selenium]: https://www.selenium.dev
+[link-atom]: https://atom.io
+[link-sublime]: https://www.sublimetext.com
+[link-socketio]: https://socket.io
+[link-android-studio]: https://developer.android.com/studio/
   
 <!-- LOGOS -->
 
 [linkedin]: https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin
+[android-studio]: https://img.shields.io/badge/-android%20studio-44A833?style=for-the-badge&logoColor=white&logo=androidstudio
+[socketio]: https://img.shields.io/badge/-socket.io-010101?style=for-the-badge&logoColor=white&logo=socketdotio
+[sublime]: https://img.shields.io/badge/-sublime%20text-404040?style=for-the-badge&logoColor=white&logo=sublimetext
+[atom]: https://img.shields.io/badge/-atom-363538?style=for-the-badge&logoColor=white&logo=atom
+[selenium]: https://img.shields.io/badge/-selenium-66B045?style=for-the-badge&logo=selenium&logoColor=white
 [swift]: https://img.shields.io/badge/-swift-FA7343?style=for-the-badge&logo=swift&logoColor=white
+[mocha]: https://img.shields.io/badge/-mocha-87694D?style=for-the-badge&logo=mocha&logoColor=white
+[vscode]: https://img.shields.io/badge/-vscode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white
 [express]: https://img.shields.io/badge/-express-9AC355?style=for-the-badge&logo=express&logoColor=white
 [nodejs]: https://img.shields.io/badge/-node.js-2E6B1C?style=for-the-badge&logo=nodedotjs&logoColor=white
 [typescript]: https://img.shields.io/badge/-typescript-blue?style=for-the-badge&logo=typescript&logoColor=white
