@@ -5,12 +5,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY -->  <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (9/29/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**If life is a game, then God is the developer.**
+**What does Spiderman do when he's not fighting crime?**
 
-*And I'm the bug tester...*
+*Web Development.*
 <!-- script:end JOKE -->
 
 ## 💻 Coding
