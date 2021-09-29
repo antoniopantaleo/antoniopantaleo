@@ -1,18 +1,22 @@
-[<img align="right" alt="octocat" width="300px" src="assets/octocat.png" />][myoctocat]
-
 # Hi <img width="35px" src="assets/hello.gif"> <br/> I'm Antonio Pantaleo
 
-> 25 years old developer based in Turin, Italy.
+<span>
+<img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo"/>
+<img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
+</span>
+
 
 ## 💻 Coding
 
-🎓 I've a master degree in computer engineering
+🏡  25 years old developer based in Turin, Italy
 
-📱 In my daily life I mainly work as a native iOS developer, but I love learning new things and challenge myself with different technologies
+🎓  I've a master degree in computer engineering
 
-🛣 On the road to be a proficient full stack developer
+📱  In my daily life I mainly work as a native iOS developer, but I love learning new things and challenge myself with different technologies
 
-🍺 When I'm not coding, I like to make music, run or go out with friends and take a cold beer
+🛣  On the road to be a proficient full stack developer
+
+🍺  When I'm not coding, I like to make music, run or go out with friends and take a cold beer
 
 #### Things I know
 
