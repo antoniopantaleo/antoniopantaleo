@@ -1,5 +1,7 @@
 # Hi <img width="35px" src="assets/hello.gif"> <br/> I'm Antonio Pantaleo
 
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/antoniopantaleo/antoniopantaleo/Joke%20Of%20The%20Day?label=workflow&style=flat-square&logo=github)](https://github.com/antoniopantaleo/antoniopantaleo/actions/workflows/joke-of-the-day.yml)
+
 <span>
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo"/>
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
