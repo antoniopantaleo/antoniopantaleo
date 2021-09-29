@@ -13,7 +13,7 @@
 *Was reading one of those "People Who Passed Away In 2020" articles and saw that Larry Tesler, one of the co-developers of the basic copy and paste function for computers, died in February.Was reading one of those "People Who Passed Away In 2020" articles and saw that Larry Tesler, one of the... read more*
 <!-- script:end JOKE -->
 
-## 💻 Coding
+## 🧑🏽‍💻 About 
 
 🏡  25 years old developer based in Turin, Italy
 
@@ -25,11 +25,9 @@
 
 🍺  When I'm not coding, I like to make music, run or go out with friends and take a cold beer
 
-#### Things I know
+## ⭐️ Skills
 
-[![Swift]][link-swift] [![Xcode]][link-xcode] [![Cocoapods]][link-cocoapods] [![Java]][link-java] [![Python]][link-python] [![MySQL]][link-mysql] [![Firebase]][link-firebase] [![Postgresql]][link-postgres]
-[![Flask]][link-flask] [![Django]][link-django] [![Heroku]][link-heroku] [![FFMPEG]][link-ffmpeg] [![Dart]][link-dart] [![Tensorflow]][link-tensorflow] [![Flutter]][link-flutter] [![Git]][link-git]
-[![TelegramBotApi]][link-telegrambotapi] [![Keras]][link-keras] [![Vim]][link-vim] [![SQLite]][link-sqlite] [![Strapi]][link-strapi] [![GraphQL]][link-graphql]
+[![Swift]][link-swift] [![Java]][link-java] [![Python]][link-python] [![Dart]][link-dart] <!-- JS TS --> [![Xcode]][link-xcode] [![Cocoapods]][link-cocoapods]  [![MySQL]][link-mysql] [![Firebase]][link-firebase] [![Postgresql]][link-postgres] [![Flask]][link-flask] [![Django]][link-django] [![Heroku]][link-heroku] [![FFMPEG]][link-ffmpeg] [![Flutter]][link-flutter] [![Git]][link-git] [![TelegramBotApi]][link-telegrambotapi] [![Vim]][link-vim] [![SQLite]][link-sqlite] [![Strapi]][link-strapi] [![GraphQL]][link-graphql] [![html]][link-html] [![css]][link-css] [![javascript]][link-javascript] [![typescript]][link-typescript] [![nodejs]][link-nodejs] [![express]][link-express]
 
 <br/>
 
@@ -75,21 +73,31 @@
 [link-heroku]: https://www.heroku.com
 [link-ffmpeg]: https://ffmpeg.org/
 [link-dart]: https://dart.dev
-[link-tensorflow]: https://www.tensorflow.org
 [link-flutter]: https://flutter.dev
 [link-git]: https://git-scm.com
 [link-telegrambotapi]: https://core.telegram.org/bots/api
-[link-keras]: https://keras.io
 [link-vim]: http://www.vim.org
 [link-sqlite]: https://sqlite.org/index.html
 [link-strapi]: https://strapi.io
 [link-graphql]: https://graphql.org
-
+[link-css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[link-html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[link-javascript]: https://www.javascript.com
+[link-typescript]: https://www.typescriptlang.org
+[link-nodejs]: https://nodejs.org
+[link-express]: http://expressjs.com
+  
 <!-- LOGOS -->
 
 [linkedin]: https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin
 [swift]: https://img.shields.io/badge/-swift-FA7343?style=for-the-badge&logo=swift&logoColor=white
+[express]: https://img.shields.io/badge/-express-9AC355?style=for-the-badge&logo=express&logoColor=white
+[nodejs]: https://img.shields.io/badge/-node.js-2E6B1C?style=for-the-badge&logo=nodedotjs&logoColor=white
+[typescript]: https://img.shields.io/badge/-typescript-blue?style=for-the-badge&logo=typescript&logoColor=white
 [xcode]: https://img.shields.io/badge/-xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white
+[html]: https://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html5&logoColor=white
+[javascript]: https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white
+[css]: https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css3
 [java]: https://img.shields.io/badge/-java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [python]: https://img.shields.io/badge/-python-brightgreen?style=for-the-badge&logo=python&logoColor=white
 [mysql]: https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white
