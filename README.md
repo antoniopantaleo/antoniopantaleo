@@ -20,6 +20,18 @@
 [![Flask]][link-flask] [![Django]][link-django] [![Heroku]][link-heroku] [![FFMPEG]][link-ffmpeg] [![Dart]][link-dart] [![Tensorflow]][link-tensorflow] [![Flutter]][link-flutter] [![Git]][link-git]
 [![TelegramBotApi]][link-telegrambotapi] [![Keras]][link-keras] [![Vim]][link-vim] [![SQLite]][link-sqlite] [![Strapi]][link-strapi] [![GraphQL]][link-graphql]
 
+<br/>
+
+<span>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniopantaleo" height=160px/>
+<a/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+<img src="https://github-readme-stats.vercel.app/api?username=antoniopantaleo&show_icons=true&hide_border=true&count_private=true&hide=stars&custom_title=Stats&icon_color=DE5D43&disable_animations=true" height=160px/>
+<a/>
+<span/>
+  
 ## 🔍 Find me
 
 [![website]][my-website] [![linkedin]][my-linkedin]
