@@ -35,13 +35,13 @@
 
 <span>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniopantaleo&layout=compact" width="35.5%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniopantaleo&layout=compact" width="31%"/>
 <a/>
   
-<img src="https://github-readme-streak-stats.herokuapp.com?user=antoniopantaleo&hide_border=true" width="29.5%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=antoniopantaleo&hide_border=true" width="31.5%"/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api?username=antoniopantaleo&show_icons=true&hide_border=true&count_private=true&hide=contribs&custom_title=Stats&icon_color=DE5D43&disable_animations=true" width="34%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=antoniopantaleo&show_icons=true&hide_border=true&count_private=true&hide=contribs&custom_title=Stats&icon_color=DE5D43&disable_animations=true" width="36%"/>
 <a/>
 <span/>
  
