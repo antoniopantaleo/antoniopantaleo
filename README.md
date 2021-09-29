@@ -5,6 +5,13 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
+## 📆 Joke of the day <!-- script:start TODAY -->  <!-- script:end TODAY -->
+
+<!-- script:start JOKE -->
+**If life is a game, then God is the developer.**
+
+*And I'm the bug tester...*
+<!-- script:end JOKE -->
 
 ## 💻 Coding
 
