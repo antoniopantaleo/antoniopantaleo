@@ -8,9 +8,9 @@
 ## 📆 Joke of the day <!-- script:start TODAY --> (9/29/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What does Spiderman do when he's not fighting crime?**
+**Was reading a "People Who Passed Away In 2020" article and saw that Larry Tesler, one of the co-developers of the basic copy and paste function for computers, died in February.**
 
-*Web Development.*
+*Was reading one of those "People Who Passed Away In 2020" articles and saw that Larry Tesler, one of the co-developers of the basic copy and paste function for computers, died in February.Was reading one of those "People Who Passed Away In 2020" articles and saw that Larry Tesler, one of the... read more*
 <!-- script:end JOKE -->
 
 ## 💻 Coding
