@@ -67,7 +67,7 @@
 
 #### DVCS
 
-[![Git]][link-git]
+[![Git]][link-git] [![github]][link-github] [![gitlab]][link-gitlab]
 
 <br/>
 
@@ -132,10 +132,14 @@
 [link-sublime]: https://www.sublimetext.com
 [link-socketio]: https://socket.io
 [link-android-studio]: https://developer.android.com/studio/
+[link-gitlab]: https://about.gitlab.com
+[link-github]: https://github.com
   
 <!-- LOGOS -->
 
 [linkedin]: https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin
+[github]: https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white
+[gitlab]: https://img.shields.io/badge/-gitlab-white?style=for-the-badge&logo=gitlab&logoColor=white
 [android-studio]: https://img.shields.io/badge/-android%20studio-44A833?style=for-the-badge&logoColor=white&logo=androidstudio
 [socketio]: https://img.shields.io/badge/-socket.io-010101?style=for-the-badge&logoColor=white&logo=socketdotio
 [sublime]: https://img.shields.io/badge/-sublime%20text-404040?style=for-the-badge&logoColor=white&logo=sublimetext
