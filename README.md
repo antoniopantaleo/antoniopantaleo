@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (9/29/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (9/30/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Was reading a "People Who Passed Away In 2020" article and saw that Larry Tesler, one of the co-developers of the basic copy and paste function for computers, died in February.**
+**Why don’t developers carry guns?**
 
-*Was reading one of those "People Who Passed Away In 2020" articles and saw that Larry Tesler, one of the co-developers of the basic copy and paste function for computers, died in February.Was reading one of those "People Who Passed Away In 2020" articles and saw that Larry Tesler, one of the... read more*
+*They have troubleshooting.*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
