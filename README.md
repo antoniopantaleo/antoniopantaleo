@@ -51,7 +51,7 @@
 
 #### Frameworks
 
-[![mocha]][link-mocha] [![selenium]][link-selenium] [![Flutter]][link-flutter] [![TelegramBotApi]][link-telegrambotapi] [![Cocoapods]][link-cocoapods] [![FFMPEG]][link-ffmpeg] [![socketio]][link-socketio]
+[![mocha]][link-mocha] [![chai]][link-chai] [![selenium]][link-selenium] [![Flutter]][link-flutter] [![TelegramBotApi]][link-telegrambotapi] [![Cocoapods]][link-cocoapods] [![FFMPEG]][link-ffmpeg] [![socketio]][link-socketio] [![apollo]][link-apollo] [![prisma]][link-prisma]
 
 #### CMS 
 
@@ -59,11 +59,15 @@
 
 #### IDEs
 
-[![Xcode]][link-xcode] [![vscode]][link-vscode] [![android-studio]][link-android-studio]
+[![Xcode]][link-xcode] [![vscode]][link-vscode] [![android-studio]][link-android-studio] [![netbeans]][link-netbeans]
 
 #### Text Editors
 
 [![sublime]][link-sublime] [![Vim]][link-vim] [![atom]][link-atom]
+
+#### Softwares
+
+[![postman]][link-postman] [![sketch]][link-sketch]
 
 #### DVCS
 
@@ -134,10 +138,34 @@
 [link-android-studio]: https://developer.android.com/studio/
 [link-gitlab]: https://about.gitlab.com
 [link-github]: https://github.com
+[link-netbeans]: https://netbeans.apache.org/
+[link-apollo]: https://www.apollographql.com
+[link-chai]: https://www.chaijs.com
+[link-postman]: https://www.postman.com
+[link-prisma]: https://www.prisma.io  
+[link-sketch]: https://www.sketch.com
+  
+[link-colab]: https://colab.research.google.com/notebooks/intro.ipynb
+[link-homebrew]: https://brew.sh
+[link-latex]: https://www.latex-project.org/get/
+[link-pihole]: https://pi-hole.net
+
   
 <!-- LOGOS -->
 
 [linkedin]: https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin
+[netbeans]: https://img.shields.io/badge/-netbeans-blue?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white
+[apollo]: https://img.shields.io/badge/-apollo-311C87?style=for-the-badge&logo=apollo%20graphql&logoColor=white
+[chai]: https://img.shields.io/badge/-chai-A30701?style=for-the-badge&logo=chai&logoColor=white
+[postman]: https://img.shields.io/badge/-postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+[prisma]: https://img.shields.io/badge/-prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white
+[sketch]: https://img.shields.io/badge/-sketch-e0a504?style=for-the-badge&logo=sketch&logoColor=white
+  
+[colab]: https://img.shields.io/badge/-colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=white
+[homebrew]: https://img.shields.io/badge/-homebrew-e09431?style=for-the-badge&logo=homebrew&logoColor=white
+[latex]: https://img.shields.io/badge/-latex-008080?style=for-the-badge&logo=latex&logoColor=white
+[pihole]: https://img.shields.io/badge/-pihole-96060C?style=for-the-badge&logo=pihole&logoColor=white
+  
 [github]: https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white
 [gitlab]: https://img.shields.io/badge/-gitlab-white?style=for-the-badge&logo=gitlab&logoColor=white
 [android-studio]: https://img.shields.io/badge/-android%20studio-44A833?style=for-the-badge&logoColor=white&logo=androidstudio
