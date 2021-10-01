@@ -10,9 +10,9 @@
 ## 📆 Joke of the day <!-- script:start TODAY --> (10/1/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A new men's cologne is in development which smells of electric eels shocking a Silicon Valley giant...**
+**Why do programmers need glasses?**
 
-*Its called Eel-on Musk.*
+*So they can see sharp.*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
