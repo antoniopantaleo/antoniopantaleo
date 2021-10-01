@@ -13,6 +13,10 @@ on:
     - cron: "0 0 * * *"
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+  
+defaults:
+  run:
+    working-directory: ./build
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -26,10 +30,6 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: checkout
         uses: actions/checkout@v2
-      # Move to build 
-      - name: move to build folder
-        run: |
-          cd build
       # Setup node environment
       - name: setup node
         uses: actions/setup-node@v2
@@ -41,7 +41,7 @@ jobs:
         run: npm i
       # Run update README script
       - name: update README
-        run: npx tsc && node dist/index.js
+        run: node dist/index.js
         env:
           DATABASE_URL: file:./jokes.db
       # Commit
