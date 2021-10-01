@@ -1,19 +1,21 @@
 # Hi <img width="35px" src="assets/hello.gif"> <br/> I'm Antonio Pantaleo
 
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/antoniopantaleo/antoniopantaleo/Joke%20Of%20The%20Day?label=workflow&style=flat-square&logo=github)](https://github.com/antoniopantaleo/antoniopantaleo/actions/workflows/joke-of-the-day.yml)
+
 <span>
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo"/>
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (9/29/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/1/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Was reading a "People Who Passed Away In 2020" article and saw that Larry Tesler, one of the co-developers of the basic copy and paste function for computers, died in February.**
+**A new men's cologne is in development which smells of electric eels shocking a Silicon Valley giant...**
 
-*Was reading one of those "People Who Passed Away In 2020" articles and saw that Larry Tesler, one of the co-developers of the basic copy and paste function for computers, died in February.Was reading one of those "People Who Passed Away In 2020" articles and saw that Larry Tesler, one of the... read more*
+*Its called Eel-on Musk.*
 <!-- script:end JOKE -->
 
-## 💻 Coding
+## 🧑🏽‍💻 About 
 
 🏡  25 years old developer based in Turin, Italy
 
@@ -25,11 +27,51 @@
 
 🍺  When I'm not coding, I like to make music, run or go out with friends and take a cold beer
 
-#### Things I know
+## ⭐️ Skills
 
-[![Swift]][link-swift] [![Xcode]][link-xcode] [![Cocoapods]][link-cocoapods] [![Java]][link-java] [![Python]][link-python] [![MySQL]][link-mysql] [![Firebase]][link-firebase] [![Postgresql]][link-postgres]
-[![Flask]][link-flask] [![Django]][link-django] [![Heroku]][link-heroku] [![FFMPEG]][link-ffmpeg] [![Dart]][link-dart] [![Tensorflow]][link-tensorflow] [![Flutter]][link-flutter] [![Git]][link-git]
-[![TelegramBotApi]][link-telegrambotapi] [![Keras]][link-keras] [![Vim]][link-vim] [![SQLite]][link-sqlite] [![Strapi]][link-strapi] [![GraphQL]][link-graphql]
+#### Programming Languages
+
+[![Swift]][link-swift] [![Java]][link-java] [![Python]][link-python] [![Dart]][link-dart] [![typescript]][link-typescript] [![javascript]][link-javascript]
+
+#### Frontend
+
+[![html]][link-html] [![css]][link-css]
+
+#### Backend
+
+[![nodejs]][link-nodejs] [![express]][link-express] [![GraphQL]][link-graphql] [![Flask]][link-flask] [![Django]][link-django]
+
+#### Databases
+
+[![SQLite]][link-sqlite] [![MySQL]][link-mysql] [![Postgresql]][link-postgres]
+
+#### Backend As A Service (BaaS)
+
+[![Firebase]][link-firebase] [![Heroku]][link-heroku]
+
+#### Frameworks
+
+[![mocha]][link-mocha] [![chai]][link-chai] [![selenium]][link-selenium] [![Flutter]][link-flutter] [![TelegramBotApi]][link-telegrambotapi] [![Cocoapods]][link-cocoapods] [![FFMPEG]][link-ffmpeg] [![socketio]][link-socketio] [![apollo]][link-apollo] [![prisma]][link-prisma]
+
+#### CMS 
+
+[![Strapi]][link-strapi]
+
+#### IDEs
+
+[![Xcode]][link-xcode] [![vscode]][link-vscode] [![android-studio]][link-android-studio] [![netbeans]][link-netbeans]
+
+#### Text Editors
+
+[![sublime]][link-sublime] [![Vim]][link-vim] [![atom]][link-atom]
+
+#### Softwares
+
+[![postman]][link-postman] [![sketch]][link-sketch]
+
+#### DVCS
+
+[![Git]][link-git] [![github]][link-github] [![gitlab]][link-gitlab]
 
 <br/>
 
@@ -41,7 +83,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=antoniopantaleo&hide_border=true" width="31.5%"/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api?username=antoniopantaleo&show_icons=true&hide_border=true&count_private=true&hide=contribs&custom_title=Stats&icon_color=DE5D43&disable_animations=true" width="36%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=antoniopantaleo&show_icons=true&hide_border=true&count_private=true&hide=stars&custom_title=Stats&icon_color=DE5D43&disable_animations=true" width="36%"/>
 <a/>
 <span/>
  
@@ -59,7 +101,6 @@
 [doug_devs]: https://github.com/doug-devs
 [myoctocat]: https://myoctocat.com
 [my-linkedin]: https://www.linkedin.com/in/antonio-pantaleo-6579b9180/
-[my-instagram]: TODO
 [my-bandcamp]: https://realcapecodd.bandcamp.com
 [my-spotify]: https://open.spotify.com/album/3JfEDDdz9toGJe9KWnm8e8
 [link-swift]: https://swift.org
@@ -75,21 +116,73 @@
 [link-heroku]: https://www.heroku.com
 [link-ffmpeg]: https://ffmpeg.org/
 [link-dart]: https://dart.dev
-[link-tensorflow]: https://www.tensorflow.org
 [link-flutter]: https://flutter.dev
 [link-git]: https://git-scm.com
 [link-telegrambotapi]: https://core.telegram.org/bots/api
-[link-keras]: https://keras.io
 [link-vim]: http://www.vim.org
 [link-sqlite]: https://sqlite.org/index.html
 [link-strapi]: https://strapi.io
 [link-graphql]: https://graphql.org
+[link-css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[link-html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[link-javascript]: https://www.javascript.com
+[link-typescript]: https://www.typescriptlang.org
+[link-nodejs]: https://nodejs.org
+[link-express]: http://expressjs.com
+[link-vscode]: https://code.visualstudio.com
+[link-mocha]: https://mochajs.org
+[link-selenium]: https://www.selenium.dev
+[link-atom]: https://atom.io
+[link-sublime]: https://www.sublimetext.com
+[link-socketio]: https://socket.io
+[link-android-studio]: https://developer.android.com/studio/
+[link-gitlab]: https://about.gitlab.com
+[link-github]: https://github.com
+[link-netbeans]: https://netbeans.apache.org/
+[link-apollo]: https://www.apollographql.com
+[link-chai]: https://www.chaijs.com
+[link-postman]: https://www.postman.com
+[link-prisma]: https://www.prisma.io  
+[link-sketch]: https://www.sketch.com
+  
+[link-colab]: https://colab.research.google.com/notebooks/intro.ipynb
+[link-homebrew]: https://brew.sh
+[link-latex]: https://www.latex-project.org/get/
+[link-pihole]: https://pi-hole.net
 
+  
 <!-- LOGOS -->
 
 [linkedin]: https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin
+[netbeans]: https://img.shields.io/badge/-netbeans-blue?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white
+[apollo]: https://img.shields.io/badge/-apollo-311C87?style=for-the-badge&logo=apollo%20graphql&logoColor=white
+[chai]: https://img.shields.io/badge/-chai-A30701?style=for-the-badge&logo=chai&logoColor=white
+[postman]: https://img.shields.io/badge/-postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+[prisma]: https://img.shields.io/badge/-prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white
+[sketch]: https://img.shields.io/badge/-sketch-e0a504?style=for-the-badge&logo=sketch&logoColor=white
+  
+[colab]: https://img.shields.io/badge/-colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=white
+[homebrew]: https://img.shields.io/badge/-homebrew-e09431?style=for-the-badge&logo=homebrew&logoColor=white
+[latex]: https://img.shields.io/badge/-latex-008080?style=for-the-badge&logo=latex&logoColor=white
+[pihole]: https://img.shields.io/badge/-pihole-96060C?style=for-the-badge&logo=pihole&logoColor=white
+  
+[github]: https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white
+[gitlab]: https://img.shields.io/badge/-gitlab-white?style=for-the-badge&logo=gitlab&logoColor=white
+[android-studio]: https://img.shields.io/badge/-android%20studio-44A833?style=for-the-badge&logoColor=white&logo=androidstudio
+[socketio]: https://img.shields.io/badge/-socket.io-010101?style=for-the-badge&logoColor=white&logo=socketdotio
+[sublime]: https://img.shields.io/badge/-sublime%20text-404040?style=for-the-badge&logoColor=white&logo=sublimetext
+[atom]: https://img.shields.io/badge/-atom-363538?style=for-the-badge&logoColor=white&logo=atom
+[selenium]: https://img.shields.io/badge/-selenium-66B045?style=for-the-badge&logo=selenium&logoColor=white
 [swift]: https://img.shields.io/badge/-swift-FA7343?style=for-the-badge&logo=swift&logoColor=white
+[mocha]: https://img.shields.io/badge/-mocha-87694D?style=for-the-badge&logo=mocha&logoColor=white
+[vscode]: https://img.shields.io/badge/-vscode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white
+[express]: https://img.shields.io/badge/-express-9AC355?style=for-the-badge&logo=express&logoColor=white
+[nodejs]: https://img.shields.io/badge/-node.js-2E6B1C?style=for-the-badge&logo=nodedotjs&logoColor=white
+[typescript]: https://img.shields.io/badge/-typescript-blue?style=for-the-badge&logo=typescript&logoColor=white
 [xcode]: https://img.shields.io/badge/-xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white
+[html]: https://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html5&logoColor=white
+[javascript]: https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white
+[css]: https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css3
 [java]: https://img.shields.io/badge/-java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [python]: https://img.shields.io/badge/-python-brightgreen?style=for-the-badge&logo=python&logoColor=white
 [mysql]: https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white

@@ -26,6 +26,10 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: checkout
         uses: actions/checkout@v2
+      # Move to build 
+      - name: move to build folder
+        run: |
+          cd build
       # Setup node environment
       - name: setup node
         uses: actions/setup-node@v2
