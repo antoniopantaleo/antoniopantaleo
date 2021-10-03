@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/2/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/3/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the Programmer quit his job?**
+**What does a programmer say when he loses his glasses?**
 
-*[“Because”, “he”, “didnt”, “get”, “Arrays”]*
+*"Help! I can't C#"*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
