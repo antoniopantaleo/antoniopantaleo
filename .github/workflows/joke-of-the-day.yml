@@ -36,7 +36,7 @@ jobs:
       # Install node dependencies
       - name: install dependencies
         working-directory: ./build
-        run: npm i
+        run: npm ci
       # Run update README script
       - name: update README
         working-directory: ./build
