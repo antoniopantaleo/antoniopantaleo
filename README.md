@@ -10,9 +10,9 @@
 ## 📆 Joke of the day <!-- script:start TODAY --> (10/4/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do most software developers need glasses?**
+**You know whats favorite drink of developers?**
 
-*Because they can't C#*
+*....MOUNTAIN DEV*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
