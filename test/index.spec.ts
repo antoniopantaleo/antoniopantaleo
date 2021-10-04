@@ -1,6 +1,6 @@
 import { expect } from 'chai'
 import { replaceJoke, replaceDate } from '../functions/replacers'
-import { readFile, writeFile, readFileSync, writeFileSync } from 'fs'
+import { readFile } from 'fs'
 import { main } from '../functions/replacer'
 
 describe('Unit Test', () => {
@@ -22,19 +22,13 @@ describe('Unit Test', () => {
         })
     })
 
-    it('Replacer', () => {
-        const data = readFileSync('test/mock.md','utf8')
-        expect(data).is.not.null
-        const backup = data
+    it('Replacer', async () => {
         const today = new Date().toLocaleDateString('en-US')
         const joke = {question: "QQQQ", answer: "AAAA"}
-        const expected = `Data: <!-- script:start TODAY --> (${today}) <!-- script:end TODAY -->\nJoke:\n<!-- script:start JOKE -->\n**QaQQQ**\n\n*AAAA*\n<!-- script:end JOKE -->`
-        main('test/mock.md', joke)
-        const newData = readFileSync('test/mock.md','utf8')
+        const expected = `Data: <!-- script:start TODAY --> (${today}) <!-- script:end TODAY -->\nJoke:\n<!-- script:start JOKE -->\n**QQQQ**\n\n*AAAA*\n<!-- script:end JOKE -->`
+        const newData = await main('test/mock.md', joke)
         expect(newData).is.not.null
-        expect(newData).to.be.eq(backup)
-        writeFileSync('test/mock.md',backup,'utf8')
-        expect(readFileSync('test/mock.md','utf8')).to.be.eq(backup)
+        expect(newData).to.be.eq(expected)
     })
 })
 
