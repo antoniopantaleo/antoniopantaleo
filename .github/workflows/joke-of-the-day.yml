@@ -30,19 +30,14 @@ jobs:
       - name: setup node
         uses: actions/setup-node@v2
         with:
-          working-directory: ./build
           node-version: 14.x
           cache: npm
       # Install node dependencies
       - name: install dependencies
-        working-directory: ./build
-        run: npm ci
+        run: npm i
       # Run update README script
       - name: update README
-        working-directory: ./build
         run: node dist/index.js
-        env:
-          DATABASE_URL: file:./jokes.db
       # Commit
       - name: commit
         run: |

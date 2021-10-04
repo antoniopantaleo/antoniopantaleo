@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/1/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/2/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A new men's cologne is in development which smells of electric eels shocking a Silicon Valley giant...**
+**Why did the Programmer quit his job?**
 
-*Its called Eel-on Musk.*
+*[“Because”, “he”, “didnt”, “get”, “Arrays”]*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
