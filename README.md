@@ -10,9 +10,9 @@
 ## 📆 Joke of the day <!-- script:start TODAY --> (10/5/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Using "Gay" to mean "Bad" is homophobic... UNLESS you're talking about Javascript developers.**
+**The programmer's wife tells him: "Run to the store and pick up a loaf of bread. If they have eggs, get a dozen".**
 
-*Bad Javascript developers, like gays, spent much of their time pushing and pulling packages.*
+*The programmer comes home with 12 loaves of bread.*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
