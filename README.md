@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/4/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/5/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**You know whats favorite drink of developers?**
+**Using "Gay" to mean "Bad" is homophobic... UNLESS you're talking about Javascript developers.**
 
-*....MOUNTAIN DEV*
+*Bad Javascript developers, like gays, spent much of their time pushing and pulling packages.*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
