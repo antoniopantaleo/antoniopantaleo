@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/8/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/9/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Wow why did my programmer wife grow big boobs?**
+**Why do software developers make the best relationship partners?**
 
-*Because She is a Full-stack Developer*
+*because they're not afraid of committing.*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
