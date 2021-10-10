@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/9/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/10/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do software developers make the best relationship partners?**
+**My parents used to tell me that drug dealers would offer me free drugs until i got addicted to them, then they would charge me extremly high prices for it once i got addicted.**
 
-*because they're not afraid of committing.*
+*Looking at games in the App Store, I think all those drug dealers turned to game developers.*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
