@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/10/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/11/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**My parents used to tell me that drug dealers would offer me free drugs until i got addicted to them, then they would charge me extremly high prices for it once i got addicted.**
+**Why do programmers never go to sleep?**
 
-*Looking at games in the App Store, I think all those drug dealers turned to game developers.*
+*Because goto is evil.*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
