@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/12/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/13/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A programmer is asked by his wife to go to the store**
+**Why do programmers get Halloween and Christmas mixed up?**
 
-*"Go to the store to buy some eggs", she says, "If they have avocadoes get 6". The programmer returns with some eggs and 6 avocadoes because he's a programmer and not a badly written program.*
+*Because Oct31 = Dec25*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
