@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/13/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/14/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers get Halloween and Christmas mixed up?**
+**Now that webcams and "always listening" devices are in nearly every home, developers can finally release their smart beverage device...**
 
-*Because Oct31 = Dec25*
+*iCUP*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
