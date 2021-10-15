@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/14/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/15/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Now that webcams and "always listening" devices are in nearly every home, developers can finally release their smart beverage device...**
+**I'm a programmer, wearing glasses**
 
-*iCUP*
+*They are made to C#.*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
