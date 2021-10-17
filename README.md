@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/16/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/17/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**If you're a programmer, you would know:**
+**Did you hear about the half-assed programmer?**
 
-*// the real joke is always in the comments*
+*Apparently he had a missing semi-colon.*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
