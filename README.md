@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/18/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/19/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A programmer, a doctor and an anti-vaxxer are sitting in a bar.**
+**What is it called when a programmer goes to hell?**
 
-*The programmer says: “For me a mojito!”The doctor says: “For me a pina colada!”The anti-vaxxer says: “For me an applejack!” because anti-vaxxers are like any normal person and not so quirky or weird.She then dies from measles.*
+*Syntax.*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
