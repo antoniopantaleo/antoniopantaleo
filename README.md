@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/19/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/20/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What is it called when a programmer goes to hell?**
+**I'm a programmer, wearing glasses**
 
-*Syntax.*
+*They are made to C#.*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
