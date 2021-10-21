@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/20/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/21/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**I'm a programmer, wearing glasses**
+**How many software developers does it take to screw in a light bulb?**
 
-*They are made to C#.*
+*Zero, thats a hardware issue.*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
