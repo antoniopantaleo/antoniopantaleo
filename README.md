@@ -7,12 +7,14 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/21/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/22/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How many software developers does it take to screw in a light bulb?**
+**Two developers are working on a simulation when it suddenly goes haywire before returning to normal**
 
-*Zero, thats a hardware issue.*
+*Dev 1: Did you see that? I think the simulation just broke for a second.
+Dev 2: I think it's more accurate to say it glitched.
+Dev 1: Dude, I'm not about to argue over sim antics.*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
