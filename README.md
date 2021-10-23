@@ -7,14 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/22/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/23/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Two developers are working on a simulation when it suddenly goes haywire before returning to normal**
+**My parents used to tell me that drug dealers would offer me free drugs until i got addicted to them, then they would charge me extremly high prices for it once i got addicted.**
 
-*Dev 1: Did you see that? I think the simulation just broke for a second.
-Dev 2: I think it's more accurate to say it glitched.
-Dev 1: Dude, I'm not about to argue over sim antics.*
+*Looking at games in the App Store, I think all those drug dealers turned to game developers.*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
