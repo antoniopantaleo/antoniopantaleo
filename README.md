@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/23/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/24/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**My parents used to tell me that drug dealers would offer me free drugs until i got addicted to them, then they would charge me extremly high prices for it once i got addicted.**
+**What do you call a programmer that doesn't use Stack Overflow?**
 
-*Looking at games in the App Store, I think all those drug dealers turned to game developers.*
+*A liar.*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
