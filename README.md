@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/24/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/25/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you call a programmer that doesn't use Stack Overflow?**
+**Did you hear about the programmer who got sent to prison for using the wrong types in his C programs?**
 
-*A liar.*
+*He's going to prison for a long long time_t.*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
