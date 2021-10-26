@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/25/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/26/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Did you hear about the programmer who got sent to prison for using the wrong types in his C programs?**
+**Why do programmers confuse Halloween and Christmas?**
 
-*He's going to prison for a long long time_t.*
+*Because Oct 31 = Dec 25*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
