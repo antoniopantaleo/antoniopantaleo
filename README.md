@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/26/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/27/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers confuse Halloween and Christmas?**
+**Why do programmers never go to sleep?**
 
-*Because Oct 31 = Dec 25*
+*Because goto is evil.*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
