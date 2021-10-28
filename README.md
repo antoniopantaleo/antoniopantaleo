@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/27/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/28/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers never go to sleep?**
+**A Programmers son asks, why is the sky blue?**
 
-*Because goto is evil.*
+*Programmer: It works, don't mess with it!*
 <!-- script:end JOKE -->
 
 ## 🧑🏽‍💻 About 
