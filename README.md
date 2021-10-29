@@ -7,7 +7,7 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/28/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/29/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
 **A Programmers son asks, why is the sky blue?**
