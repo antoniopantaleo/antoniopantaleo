@@ -1,9 +1,9 @@
 # Hi <img width="35px" src="assets/hello.gif"> <br/> I'm Antonio Pantaleo
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/antoniopantaleo/antoniopantaleo/Joke%20Of%20The%20Day?label=workflow&style=flat-square&logo=github)](https://github.com/antoniopantaleo/antoniopantaleo/actions/workflows/joke-of-the-day.yml)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/antoniopantaleo/antoniopantaleo/Joke%20Of%20The%20Day?label=workflow&style=flat-square&logo=github)](https://github.com/antoniopantaleo/antoniopantaleo/actions/workflows/joke-of-the-day.yml) 
 
 <span>
-<img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo"/>
+<img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3"/>
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
@@ -14,6 +14,10 @@
 
 *Programmer: It works, don't mess with it!*
 <!-- script:end JOKE -->
+
+## 🏆 My Last Project
+
+[![APDynamicGrid Project Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=apdynamicgrid&hide_border=true)](https://github.com/antoniopantaleo/APDynamicGrid)
 
 ## 🧑🏽‍💻 About 
 
@@ -28,52 +32,56 @@
 🍺  When I'm not coding, I like to make music, run or go out with friends and take a cold beer
 
 ## ⭐️ Skills
+<details>
+  <summary><em>Click to expand!</em></summary>
+  
+  #### Programming Languages
 
-#### Programming Languages
+  [![Swift]][link-swift] [![Java]][link-java] [![Python]][link-python] [![Dart]][link-dart] [![typescript]][link-typescript] [![javascript]][link-javascript]
 
-[![Swift]][link-swift] [![Java]][link-java] [![Python]][link-python] [![Dart]][link-dart] [![typescript]][link-typescript] [![javascript]][link-javascript]
+  #### Frontend
 
-#### Frontend
+  [![html]][link-html] [![css]][link-css]
 
-[![html]][link-html] [![css]][link-css]
+  #### Backend
 
-#### Backend
+  [![nodejs]][link-nodejs] [![express]][link-express] [![GraphQL]][link-graphql] [![Flask]][link-flask] [![Django]][link-django]
 
-[![nodejs]][link-nodejs] [![express]][link-express] [![GraphQL]][link-graphql] [![Flask]][link-flask] [![Django]][link-django]
+  #### Databases
 
-#### Databases
+  [![SQLite]][link-sqlite] [![MySQL]][link-mysql] [![Postgresql]][link-postgres]
 
-[![SQLite]][link-sqlite] [![MySQL]][link-mysql] [![Postgresql]][link-postgres]
+  #### Backend As A Service (BaaS)
 
-#### Backend As A Service (BaaS)
+  [![Firebase]][link-firebase] [![Heroku]][link-heroku]
 
-[![Firebase]][link-firebase] [![Heroku]][link-heroku]
+  #### Frameworks
 
-#### Frameworks
+  [![mocha]][link-mocha] [![chai]][link-chai] [![selenium]][link-selenium] [![Flutter]][link-flutter] [![TelegramBotApi]][link-telegrambotapi] [![Cocoapods]][link-cocoapods] [![FFMPEG]][link-ffmpeg] [![socketio]][link-socketio] [![apollo]][link-apollo] [![prisma]][link-prisma]
 
-[![mocha]][link-mocha] [![chai]][link-chai] [![selenium]][link-selenium] [![Flutter]][link-flutter] [![TelegramBotApi]][link-telegrambotapi] [![Cocoapods]][link-cocoapods] [![FFMPEG]][link-ffmpeg] [![socketio]][link-socketio] [![apollo]][link-apollo] [![prisma]][link-prisma]
+  #### CMS 
 
-#### CMS 
+  [![Strapi]][link-strapi]
 
-[![Strapi]][link-strapi]
+  #### IDEs
 
-#### IDEs
+  [![Xcode]][link-xcode] [![vscode]][link-vscode] [![android-studio]][link-android-studio] [![netbeans]][link-netbeans]
 
-[![Xcode]][link-xcode] [![vscode]][link-vscode] [![android-studio]][link-android-studio] [![netbeans]][link-netbeans]
+  #### Text Editors
 
-#### Text Editors
+  [![sublime]][link-sublime] [![Vim]][link-vim] [![atom]][link-atom]
 
-[![sublime]][link-sublime] [![Vim]][link-vim] [![atom]][link-atom]
+  #### Softwares
 
-#### Softwares
+  [![postman]][link-postman] [![sketch]][link-sketch]
 
-[![postman]][link-postman] [![sketch]][link-sketch]
+  #### DVCS
 
-#### DVCS
+  [![Git]][link-git] [![github]][link-github] [![gitlab]][link-gitlab]
+</details>
 
-[![Git]][link-git] [![github]][link-github] [![gitlab]][link-gitlab]
 
-<br/>
+## 📈 Stats
 
 <span>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
