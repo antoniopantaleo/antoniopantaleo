@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/29/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/30/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A Programmers son asks, why is the sky blue?**
+**What do you call it when a programmer goes to the bathroom when they have a new idea?**
 
-*Programmer: It works, don't mess with it!*
+*A memory dump.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
