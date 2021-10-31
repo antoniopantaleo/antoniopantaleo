@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/30/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/31/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you call it when a programmer goes to the bathroom when they have a new idea?**
+**A programmer tries his hand at stand-up comedy: "Forward-slash forward-slash a man walks into a bar..."**
 
-*A memory dump.*
+*A heckler yells at him: "Why do you keep doing that weird forward-slash thing?!"He responds: "Don't you know?  The best jokes are always in the comments."*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
