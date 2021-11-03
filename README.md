@@ -62,6 +62,10 @@
   #### CMS 
 
   [![Strapi]][link-strapi]
+  
+  #### Static Website Generators
+  
+  [![Hugo]][link-hugo]
 
   #### IDEs
 
@@ -103,7 +107,7 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------- -->
 
-<!-- LINKS -->
+<!-------- LINKS -------->
 
 [my-website]: https://antoniopantaleo.github.io
 [doug_devs]: https://github.com/doug-devs
@@ -151,14 +155,17 @@
 [link-postman]: https://www.postman.com
 [link-prisma]: https://www.prisma.io  
 [link-sketch]: https://www.sketch.com
-  
+[link-hugo]: https://gohugo.io
+
+<!-- UNUSED
 [link-colab]: https://colab.research.google.com/notebooks/intro.ipynb
 [link-homebrew]: https://brew.sh
 [link-latex]: https://www.latex-project.org/get/
 [link-pihole]: https://pi-hole.net
+-->
 
   
-<!-- LOGOS -->
+<!-------- LOGOS -------->
 
 [linkedin]: https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin
 [netbeans]: https://img.shields.io/badge/-netbeans-blue?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white
@@ -167,12 +174,15 @@
 [postman]: https://img.shields.io/badge/-postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [prisma]: https://img.shields.io/badge/-prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white
 [sketch]: https://img.shields.io/badge/-sketch-e0a504?style=for-the-badge&logo=sketch&logoColor=white
-  
+[hugo]:  https://shields.io/badge/-hugo-EB5188?style=for-the-badge&logo=hugo&logoColor=white
+
+<!-- UNUSED
 [colab]: https://img.shields.io/badge/-colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=white
 [homebrew]: https://img.shields.io/badge/-homebrew-e09431?style=for-the-badge&logo=homebrew&logoColor=white
 [latex]: https://img.shields.io/badge/-latex-008080?style=for-the-badge&logo=latex&logoColor=white
 [pihole]: https://img.shields.io/badge/-pihole-96060C?style=for-the-badge&logo=pihole&logoColor=white
-  
+-->
+
 [github]: https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white
 [gitlab]: https://img.shields.io/badge/-gitlab-white?style=for-the-badge&logo=gitlab&logoColor=white
 [android-studio]: https://img.shields.io/badge/-android%20studio-44A833?style=for-the-badge&logoColor=white&logo=androidstudio
