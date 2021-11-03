@@ -65,7 +65,7 @@
 
   #### IDEs
 
-  [![Xcode]][link-xcode] [![vscode]][link-vscode] [![android-studio]][link-android-studio] [![netbeans]][link-netbeans]
+  [![Xcode]][link-xcode] [![vscode]][link-vscode] [![netbeans]][link-netbeans]
 
   #### Text Editors
 
@@ -143,7 +143,6 @@
 [link-atom]: https://atom.io
 [link-sublime]: https://www.sublimetext.com
 [link-socketio]: https://socket.io
-[link-android-studio]: https://developer.android.com/studio/
 [link-gitlab]: https://about.gitlab.com
 [link-github]: https://github.com
 [link-netbeans]: https://netbeans.apache.org/
