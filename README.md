@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/3/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/4/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**As a programmer, I would make a UDP joke**
+**Why are the developers of NoMansSky called Hellogames?**
 
-*But you might not get it.*
+*Because you never get a goodbuy from them*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
