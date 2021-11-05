@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/4/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/5/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are the developers of NoMansSky called Hellogames?**
+**Why do Python programmers have low self esteem?**
 
-*Because you never get a goodbuy from them*
+*They're constantly comparing their self to other.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
