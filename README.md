@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/5/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/6/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do Python programmers have low self esteem?**
+**Spiders must be...**
 
-*They're constantly comparing their self to other.*
+*the only web developers who like bugs.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
