@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/6/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/7/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Spiders must be...**
+**Developers don't spoon their SO**
 
-*the only web developers who like bugs.*
+*They fork them.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
