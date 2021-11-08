@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/7/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/8/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Developers don't spoon their SO**
+**Why did the developers have to delay their pirate game?**
 
-*They fork them.*
+*They needed to give their characters an eye-patch.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
