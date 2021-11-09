@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/8/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/9/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the developers have to delay their pirate game?**
+**Why do good programmers never put circles into their games?**
 
-*They needed to give their characters an eye-patch.*
+*Because no one likes pointless features.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
