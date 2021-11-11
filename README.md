@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/10/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/11/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**My girlfriend told me to take a spider out last night instead of killing it.**
+**(Programmer) What did 0 say to 1?**
 
-*We went and had some drinks. Funny Lass, bit fed up of all the web developers out there though. She said she prefers those who like to live on the edge, maybe perhaps, a spy-der.*
+*You're a bit too much.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
