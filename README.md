@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/11/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/12/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**(Programmer) What did 0 say to 1?**
+**I am a programmer. A journalist asked me what makes a software code bad. I said...**
 
-*You're a bit too much.*
+*No comment*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
