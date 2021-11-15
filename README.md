@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/14/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/15/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do java developers always wear eyeglasses?**
+**How many programmers does it take to change a light bulb?**
 
-*Because they dont C#*
+*None. It's a hardware problem.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
