@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/15/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/16/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How many programmers does it take to change a light bulb?**
+**Why are the developers of NoMansSky called Hellogames?**
 
-*None. It's a hardware problem.*
+*Because you never get a goodbuy from them*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
