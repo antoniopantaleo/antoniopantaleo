@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/16/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/17/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are the developers of NoMansSky called Hellogames?**
+**A Programmer.**
 
-*Because you never get a goodbuy from them*
+*Why are Programmers single?Because they treat women like an Object.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
