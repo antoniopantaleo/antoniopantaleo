@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/17/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/18/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A Programmer.**
+**I wanted to be a better computer programmer so I decided to slowly improve my binary skills**
 
-*Why are Programmers single?Because they treat women like an Object.*
+*You could say I improved bit by bit*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
