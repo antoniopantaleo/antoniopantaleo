@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/18/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/19/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**I wanted to be a better computer programmer so I decided to slowly improve my binary skills**
+**Why do most software developers need glasses?**
 
-*You could say I improved bit by bit*
+*Because they can't C#*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
