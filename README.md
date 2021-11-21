@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/20/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/21/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you call a group of programmers?**
+**If you're a programmer, you would know:**
 
-*An argument.*
+*// the real joke is always in the comments*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
