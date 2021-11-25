@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/24/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/25/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Q: How did the programmer escape from prison?**
+**How many software developers does it take to fix a light bulb?**
 
-*A: from%20prison*
+*none, its a hardware issue.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
