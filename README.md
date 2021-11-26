@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/25/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/26/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How many software developers does it take to fix a light bulb?**
+**My programmer friend said I have a high IQ**
 
-*none, its a hardware issue.*
+*He said it's 404*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
