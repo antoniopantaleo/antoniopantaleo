@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/27/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/28/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do Assembly programmers have so much free time at school?**
+**My girlfriend told me to take a spider out last night instead of killing it.**
 
-*They can't have any classes.*
+*We went and had some drinks. Funny Lass, bit fed up of all the web developers out there though. She said she prefers those who like to live on the edge, maybe perhaps, a spy-der.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
