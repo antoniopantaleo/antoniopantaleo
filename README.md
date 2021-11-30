@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/29/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/30/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**You know whats favorite drink of developers?**
+**I wanted to be a better computer programmer so I decided to slowly improve my binary skills**
 
-*....MOUNTAIN DEV*
+*You could say I improved bit by bit*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
