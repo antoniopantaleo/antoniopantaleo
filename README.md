@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/1/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/2/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**You know whats favorite drink of developers?**
+**What do you call a group of programmers?**
 
-*....MOUNTAIN DEV*
+*An argument.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
