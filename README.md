@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/2/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/3/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you call a group of programmers?**
+**Why do Python developers wear glasses?**
 
-*An argument.*
+*Because they can't "C".*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
