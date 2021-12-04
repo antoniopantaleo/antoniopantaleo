@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/3/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/4/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do Python developers wear glasses?**
+**Why do Assembly programmers have so much free time at school?**
 
-*Because they can't "C".*
+*They can't have any classes.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
