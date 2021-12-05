@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/4/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/5/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do Assembly programmers have so much free time at school?**
+**How do you know if a programmer is really busy?**
 
-*They can't have any classes.*
+*They’ve got a lot of issues.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
