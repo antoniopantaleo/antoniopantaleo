@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/6/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/7/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Q: How did the programmer escape from prison?**
+**My programmer friend said I have a high IQ**
 
-*A: from%20prison*
+*He said it's 404*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
