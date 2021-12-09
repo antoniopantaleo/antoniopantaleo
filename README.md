@@ -102,8 +102,8 @@
   
 ## 🔍 Find me
 
-[![website]][my-website] [![linkedin]][my-linkedin]
-[![spotify]][my-spotify] [![bandcamp]][my-bandcamp]
+<!-- [![website]][my-website] -->
+[![linkedin]][my-linkedin] [![spotify]][my-spotify] [![bandcamp]][my-bandcamp]
 
 <!-- -------------------------------------------------------------------------------------------------------------- -->
 
