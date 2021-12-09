@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/8/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/9/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Did you hear about the half-assed programmer?**
+**I wanted to be a better computer programmer so I decided to slowly improve my binary skills**
 
-*Apparently he had a missing semi-colon.*
+*You could say I improved bit by bit*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
