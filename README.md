@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/10/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/11/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**You know whats favorite drink of developers?**
+**What do you call the sexy girlfriend of a bad programmer?**
 
-*....MOUNTAIN DEV*
+*Bug's Bunny.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
