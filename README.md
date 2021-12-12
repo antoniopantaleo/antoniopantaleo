@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/11/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/12/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you call the sexy girlfriend of a bad programmer?**
+**If software developers made cars**
 
-*Bug's Bunny.*
+*They would cost $500, get 200 miles per gallon, and once a year would explode. Killing everyone inside.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
