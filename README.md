@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/13/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/14/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Programmers hate roman numerals.**
+**What language is most commonly used by programmers?**
 
-*But I can't zero in on why*
+*Vulgar*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
