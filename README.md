@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/15/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/16/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Programmers hate roman numerals.**
+**Why are the developers of NoMansSky called Hellogames?**
 
-*But I can't zero in on why*
+*Because you never get a goodbuy from them*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
