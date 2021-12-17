@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/16/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/17/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are the developers of NoMansSky called Hellogames?**
+**A programmer and his wife are reviewing their grocery list.**
 
-*Because you never get a goodbuy from them*
+*She says, “We’re out of bread. Please go the grocery store and buy one. And if they’ve got eggs, get six.”After a while, he’s back with six loaves of bread.The wife asks, “Why did you buy 6 loaves of bread?”He replies, “They had eggs.”*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
