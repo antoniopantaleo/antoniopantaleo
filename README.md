@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/17/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/18/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A programmer and his wife are reviewing their grocery list.**
+**What does a programmer say when he loses his glasses?**
 
-*She says, “We’re out of bread. Please go the grocery store and buy one. And if they’ve got eggs, get six.”After a while, he’s back with six loaves of bread.The wife asks, “Why did you buy 6 loaves of bread?”He replies, “They had eggs.”*
+*"Help! I can't C#"*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
