@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/19/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/20/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do spiders usually get jobs in tech?**
+**Why do most software developers need glasses?**
 
-*Most of them are already competent web developers.*
+*Because they can't C#*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
