@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/21/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/22/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**As a programmer, I would make a UDP joke**
+**What do programmers want from their bosses?**
 
-*But you might not get it.*
+*Arrays*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
