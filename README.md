@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/22/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/23/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do programmers want from their bosses?**
+**Why do most software developers need glasses?**
 
-*Arrays*
+*Because they can't C#*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
