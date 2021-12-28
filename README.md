@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/27/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/28/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Q: How did the programmer escape from prison?**
+**Where does the computer programmer take a piss?**
 
-*A: from%20prison*
+*At the IP address. Where does he poop?Install.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
