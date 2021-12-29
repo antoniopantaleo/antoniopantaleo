@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/28/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/29/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Where does the computer programmer take a piss?**
+**I asked a programmer what his New Year's resolution will be.**
 
-*At the IP address. Where does he poop?Install.*
+*He answered:640 x 480.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
