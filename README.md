@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/29/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/30/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**I asked a programmer what his New Year's resolution will be.**
+**I am a programmer. A journalist asked me what makes a software code bad. I said...**
 
-*He answered:640 x 480.*
+*No comment*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
