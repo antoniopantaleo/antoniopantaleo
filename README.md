@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/30/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/31/2021) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**I am a programmer. A journalist asked me what makes a software code bad. I said...**
+**Did you hear about the programmer who got sent to prison for using the wrong types in his C programs?**
 
-*No comment*
+*He's going to prison for a long long time_t.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
