@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/31/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/1/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Did you hear about the programmer who got sent to prison for using the wrong types in his C programs?**
+**A wife asks her programmer husband to go to the store..**
 
-*He's going to prison for a long long time_t.*
+*'Can you go down to the store, and get a gallon of milk, and if they have eggs, get 6.'Later on he returns home and she looks at his purchases and says 'Why the fuck do you have 6 gallons of milk?'He responded 'They had eggs.'*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
