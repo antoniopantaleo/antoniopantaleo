@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/1/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/2/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A wife asks her programmer husband to go to the store..**
+**A programmer and his wife are reviewing their grocery list.**
 
-*'Can you go down to the store, and get a gallon of milk, and if they have eggs, get 6.'Later on he returns home and she looks at his purchases and says 'Why the fuck do you have 6 gallons of milk?'He responded 'They had eggs.'*
+*She says, “We’re out of bread. Please go the grocery store and buy one. And if they’ve got eggs, get six.”After a while, he’s back with six loaves of bread.The wife asks, “Why did you buy 6 loaves of bread?”He replies, “They had eggs.”*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
