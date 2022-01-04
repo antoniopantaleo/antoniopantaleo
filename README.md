@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/3/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/4/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**I think Android application developers are magical.**
+**How many Boolean programmers does it take to screw in a lightbulb?**
 
-*They're like open sorcerers.*
+*Yes.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
