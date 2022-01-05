@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/4/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/5/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How many Boolean programmers does it take to screw in a lightbulb?**
+**A programmer tries his hand at stand-up comedy: "Forward-slash forward-slash a man walks into a bar..."**
 
-*Yes.*
+*A heckler yells at him: "Why do you keep doing that weird forward-slash thing?!"He responds: "Don't you know?  The best jokes are always in the comments."*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
