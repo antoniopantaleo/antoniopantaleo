@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/5/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/6/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A programmer tries his hand at stand-up comedy: "Forward-slash forward-slash a man walks into a bar..."**
+**What do passionate Indian chefs and functional programmers have in common when they are exhausted?**
 
-*A heckler yells at him: "Why do you keep doing that weird forward-slash thing?!"He responds: "Don't you know?  The best jokes are always in the comments."*
+*They curry on.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
