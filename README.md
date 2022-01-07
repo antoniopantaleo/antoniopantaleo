@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/6/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/7/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do passionate Indian chefs and functional programmers have in common when they are exhausted?**
+**Whats at the end of every programmers suicide note?**
 
-*They curry on.*
+*“Goodbye World”*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
