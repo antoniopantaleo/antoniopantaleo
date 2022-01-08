@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/7/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/8/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Whats at the end of every programmers suicide note?**
+**Why do programmers hang out together?**
 
-*“Goodbye World”*
+*Because they are codependent*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
