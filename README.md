@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/9/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/10/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Whats at the end of every programmers suicide note?**
+**What kinda ants do software developers like?**
 
-*“Goodbye World”*
+*A constANT.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
