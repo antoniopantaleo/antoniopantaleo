@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/10/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/11/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What kinda ants do software developers like?**
+**A programmer walks into a bar...**
 
-*A constANT.*
+*He orders 1.000000119 root beers.The bartender says, “ I’m gonna have to charge you extra, that’s a root beer float.”The programmer says, “Well in that case make it a double.”*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
