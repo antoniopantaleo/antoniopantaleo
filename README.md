@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/11/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/12/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A programmer walks into a bar...**
+**A programmer rubs a lamp and a genie appears**
 
-*He orders 1.000000119 root beers.The bartender says, “ I’m gonna have to charge you extra, that’s a root beer float.”The programmer says, “Well in that case make it a double.”*
+*Genie: "Alright I'm gonna make this short. You can't ask for more wishes, you can't change free will, and you only get one wish. Choose wisely."Programmer: "I wish to use a wish."Genie: "Granted, you now have 4,294,967,295 wishes."*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
