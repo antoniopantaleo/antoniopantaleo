@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/12/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/13/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A programmer rubs a lamp and a genie appears**
+**Why do programmers hang out together?**
 
-*Genie: "Alright I'm gonna make this short. You can't ask for more wishes, you can't change free will, and you only get one wish. Choose wisely."Programmer: "I wish to use a wish."Genie: "Granted, you now have 4,294,967,295 wishes."*
+*Because they are codependent*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
