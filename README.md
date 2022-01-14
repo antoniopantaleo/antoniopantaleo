@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/13/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/14/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers hang out together?**
+**A Programmer.**
 
-*Because they are codependent*
+*Why are Programmers single? Because they treat women like an Object.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
