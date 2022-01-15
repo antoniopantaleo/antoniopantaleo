@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/14/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/15/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A Programmer.**
+**A programmer went to the grocery store. His wife said "while you are out, go get some milk."**
 
-*Why are Programmers single? Because they treat women like an Object.*
+*He never came back.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
