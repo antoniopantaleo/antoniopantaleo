@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/16/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/17/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How long does a programmer last in bed?**
+**A programmer went to the grocery store. His wife said "while you are out, go get some milk."**
 
-*Just a bit*
+*He never came back.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
