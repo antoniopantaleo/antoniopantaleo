@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/18/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/19/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why couldn't the programmer move his car?**
+**A programmer's wife tells him as he leaves the house: "While you're out, buy some milk."**
 
-*He ran out of space on his drive*
+*He never returns home and the universe runs out of milk.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
