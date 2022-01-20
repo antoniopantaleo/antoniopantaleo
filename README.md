@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/19/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/20/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A programmer's wife tells him as he leaves the house: "While you're out, buy some milk."**
+**What does a programmer/coder do when he's tired of life?**
 
-*He never returns home and the universe runs out of milk.*
+*He writes byebyeworld.c*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
