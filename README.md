@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/20/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/21/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What does a programmer/coder do when he's tired of life?**
+**A programmer got stuck in the shower because...**
 
-*He writes byebyeworld.c*
+*The instructions on the shampoo bottle said-           "Lather, Rinse, Repeat."*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
