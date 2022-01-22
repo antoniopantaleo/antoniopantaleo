@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/21/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/22/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A programmer got stuck in the shower because...**
+**How do you know a man is a programmer?**
 
-*The instructions on the shampoo bottle said-           "Lather, Rinse, Repeat."*
+*Send him shopping and tell him: "Get a loaf of bread and if they have eggs get 10." If he comes back with 10 loaves of bread, he's a programmer.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
