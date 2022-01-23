@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/22/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/23/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How do you know a man is a programmer?**
+**Using "Gay" to mean "Bad" is homophobic... UNLESS you're talking about Javascript developers.**
 
-*Send him shopping and tell him: "Get a loaf of bread and if they have eggs get 10." If he comes back with 10 loaves of bread, he's a programmer.*
+*Bad Javascript developers, like gays, spent much of their time pushing and pulling packages.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
