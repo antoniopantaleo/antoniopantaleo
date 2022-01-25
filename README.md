@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/24/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/25/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**You know whats favorite drink of developers?**
+**A programmer puts two glasses on his bedside table before going to sleep.**
 
-*....MOUNTAIN DEV*
+*One full of water in case he gets thirsty and an empty one in case he doesn't.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
