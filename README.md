@@ -7,12 +7,14 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/26/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/27/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**I just made money for the first time as a programmer**
+**Two developers are working on a simulation when it suddenly goes haywire before returning to normal**
 
-*I sold my laptop*
+*Dev 1: Did you see that? I think the simulation just broke for a second.
+Dev 2: I think it's more accurate to say it glitched.
+Dev 1: Dude, I'm not about to argue over sim antics.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
