@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/28/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/29/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why couldn't the programmer move his car?**
+**Developers don't spoon their SO**
 
-*He ran out of space on his drive*
+*They fork them.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
