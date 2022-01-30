@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/29/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/30/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Developers don't spoon their SO**
+**A programmer was arrested for writing unreadable code**
 
-*They fork them.*
+*He refused to comment*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
