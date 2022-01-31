@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/30/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (1/31/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A programmer was arrested for writing unreadable code**
+**A programmer makes a robot girlfriend.**
 
-*He refused to comment*
+*He tries interacting by text, putting in "i <3 u". But the robot unfortunately responds: "i not defined in this scope. u not defined in  this scope."*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
