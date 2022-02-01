@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (1/31/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (2/1/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A programmer makes a robot girlfriend.**
+**Programmer: "Honey, you're my number one..."**
 
-*He tries interacting by text, putting in "i <3 u". But the robot unfortunately responds: "i not defined in this scope. u not defined in  this scope."*
+*Wife: "Oh, really!? Well who's your number zero, you cheating bastard!?"*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
