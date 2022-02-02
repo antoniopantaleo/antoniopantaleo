@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (2/1/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (2/2/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Programmer: "Honey, you're my number one..."**
+**What do passionate Indian chefs and functional programmers have in common when they are exhausted?**
 
-*Wife: "Oh, really!? Well who's your number zero, you cheating bastard!?"*
+*They curry on.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
