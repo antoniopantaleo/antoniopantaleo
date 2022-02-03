@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (2/2/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (2/3/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do passionate Indian chefs and functional programmers have in common when they are exhausted?**
+**A programmer puts two glasses on his bedside table before going to sleep.**
 
-*They curry on.*
+*One full of water in case he gets thirsty and an empty one in case he doesn't.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
