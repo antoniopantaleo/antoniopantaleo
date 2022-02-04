@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (2/3/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (2/4/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A programmer puts two glasses on his bedside table before going to sleep.**
+**A programmer and his wife are reviewing their grocery list.**
 
-*One full of water in case he gets thirsty and an empty one in case he doesn't.*
+*She says, “We’re out of bread. Please go the grocery store and buy one. And if they’ve got eggs, get six.”After a while, he’s back with six loaves of bread.The wife asks, “Why did you buy 6 loaves of bread?”He replies, “They had eggs.”*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
