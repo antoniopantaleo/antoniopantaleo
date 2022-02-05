@@ -7,12 +7,14 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (2/4/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (2/5/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A programmer and his wife are reviewing their grocery list.**
+**My project manager posted in linkedin 'When I die,I want my developers to carry my coffin so that they can put me down one last time"**
 
-*She says, “We’re out of bread. Please go the grocery store and buy one. And if they’ve got eggs, get six.”After a while, he’s back with six loaves of bread.The wife asks, “Why did you buy 6 loaves of bread?”He replies, “They had eggs.”*
+*I commented on that post 
+
+"For the first time ,you have mentioned the requirements clearly".*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
