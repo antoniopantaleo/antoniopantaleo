@@ -1,19 +1,25 @@
 # Hi <img width="35px" src="assets/hello.gif"> <br/> I'm Antonio Pantaleo
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/antoniopantaleo/antoniopantaleo/Joke%20Of%20The%20Day?label=workflow&style=flat-square&logo=github)](https://github.com/antoniopantaleo/antoniopantaleo/actions/workflows/joke-of-the-day.yml)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/antoniopantaleo/antoniopantaleo/Joke%20Of%20The%20Day?label=workflow&style=flat-square&logo=github)](https://github.com/antoniopantaleo/antoniopantaleo/actions/workflows/joke-of-the-day.yml) 
 
 <span>
-<img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo"/>
+<img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/2/2021) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (2/5/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the Programmer quit his job?**
+**My project manager posted in linkedin 'When I die,I want my developers to carry my coffin so that they can put me down one last time"**
 
-*[“Because”, “he”, “didnt”, “get”, “Arrays”]*
+*I commented on that post 
+
+"For the first time ,you have mentioned the requirements clearly".*
 <!-- script:end JOKE -->
+
+## 🏆 My Last Project
+
+[![APDynamicGrid Project Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=apdynamicgrid&hide_border=true)](https://github.com/antoniopantaleo/APDynamicGrid)
 
 ## 🧑🏽‍💻 About 
 
@@ -28,74 +34,82 @@
 🍺  When I'm not coding, I like to make music, run or go out with friends and take a cold beer
 
 ## ⭐️ Skills
+<details>
+  <summary><em>Click to expand!</em></summary>
+  
+  #### Programming Languages
 
-#### Programming Languages
+  [![Swift]][link-swift] [![Java]][link-java] [![Python]][link-python] [![Dart]][link-dart] [![typescript]][link-typescript] [![javascript]][link-javascript]
 
-[![Swift]][link-swift] [![Java]][link-java] [![Python]][link-python] [![Dart]][link-dart] [![typescript]][link-typescript] [![javascript]][link-javascript]
+  #### Frontend
 
-#### Frontend
+  [![html]][link-html] [![css]][link-css]
 
-[![html]][link-html] [![css]][link-css]
+  #### Backend
 
-#### Backend
+  [![nodejs]][link-nodejs] [![express]][link-express] [![GraphQL]][link-graphql] [![Flask]][link-flask] [![Django]][link-django]
 
-[![nodejs]][link-nodejs] [![express]][link-express] [![GraphQL]][link-graphql] [![Flask]][link-flask] [![Django]][link-django]
+  #### Databases
 
-#### Databases
+  [![SQLite]][link-sqlite] [![MySQL]][link-mysql] [![Postgresql]][link-postgres]
 
-[![SQLite]][link-sqlite] [![MySQL]][link-mysql] [![Postgresql]][link-postgres]
+  #### Backend As A Service (BaaS)
 
-#### Backend As A Service (BaaS)
+  [![Firebase]][link-firebase] [![Heroku]][link-heroku]
 
-[![Firebase]][link-firebase] [![Heroku]][link-heroku]
+  #### Frameworks
 
-#### Frameworks
+  [![mocha]][link-mocha] [![chai]][link-chai] [![selenium]][link-selenium] [![Flutter]][link-flutter] [![TelegramBotApi]][link-telegrambotapi] [![Cocoapods]][link-cocoapods] [![FFMPEG]][link-ffmpeg] [![socketio]][link-socketio] [![apollo]][link-apollo] [![prisma]][link-prisma]
 
-[![mocha]][link-mocha] [![chai]][link-chai] [![selenium]][link-selenium] [![Flutter]][link-flutter] [![TelegramBotApi]][link-telegrambotapi] [![Cocoapods]][link-cocoapods] [![FFMPEG]][link-ffmpeg] [![socketio]][link-socketio] [![apollo]][link-apollo] [![prisma]][link-prisma]
+  #### CMS 
 
-#### CMS 
+  [![Strapi]][link-strapi]
+  
+  #### Static Website Generators
+  
+  [![Hugo]][link-hugo]
 
-[![Strapi]][link-strapi]
+  #### IDEs
 
-#### IDEs
+  [![Xcode]][link-xcode] [![vscode]][link-vscode] [![netbeans]][link-netbeans]
 
-[![Xcode]][link-xcode] [![vscode]][link-vscode] [![android-studio]][link-android-studio] [![netbeans]][link-netbeans]
+  #### Text Editors
 
-#### Text Editors
+  [![sublime]][link-sublime] [![Vim]][link-vim] [![atom]][link-atom]
 
-[![sublime]][link-sublime] [![Vim]][link-vim] [![atom]][link-atom]
+  #### Softwares
 
-#### Softwares
+  [![postman]][link-postman] [![sketch]][link-sketch]
 
-[![postman]][link-postman] [![sketch]][link-sketch]
+  #### DVCS
 
-#### DVCS
+  [![Git]][link-git] [![github]][link-github] [![gitlab]][link-gitlab]
+</details>
 
-[![Git]][link-git] [![github]][link-github] [![gitlab]][link-gitlab]
 
-<br/>
+## 📈 Stats
 
 <span>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniopantaleo&layout=compact" width="31%"/>
 <a/>
   
-<img src="https://github-readme-streak-stats.herokuapp.com?user=antoniopantaleo&hide_border=true" width="31.5%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=antoniopantaleo&hide_border=true&date_format=j%2Fn%5B%2FY%5D" width="31.5%"/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api?username=antoniopantaleo&show_icons=true&hide_border=true&count_private=true&hide=stars&custom_title=Stats&icon_color=DE5D43&disable_animations=true" width="36%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=antoniopantaleo&show_icons=true&hide_border=true&count_private=true&hide=issues&custom_title=Stats&icon_color=DE5D43&disable_animations=true" width="36%"/>
 <a/>
 <span/>
  
   
 ## 🔍 Find me
 
-[![website]][my-website] [![linkedin]][my-linkedin]
-[![spotify]][my-spotify] [![bandcamp]][my-bandcamp]
+<!-- [![website]][my-website] -->
+[![linkedin]][my-linkedin] [![spotify]][my-spotify] [![bandcamp]][my-bandcamp]
 
 <!-- -------------------------------------------------------------------------------------------------------------- -->
 
-<!-- LINKS -->
+<!-------- LINKS -------->
 
 [my-website]: https://antoniopantaleo.github.io
 [doug_devs]: https://github.com/doug-devs
@@ -135,7 +149,6 @@
 [link-atom]: https://atom.io
 [link-sublime]: https://www.sublimetext.com
 [link-socketio]: https://socket.io
-[link-android-studio]: https://developer.android.com/studio/
 [link-gitlab]: https://about.gitlab.com
 [link-github]: https://github.com
 [link-netbeans]: https://netbeans.apache.org/
@@ -144,14 +157,17 @@
 [link-postman]: https://www.postman.com
 [link-prisma]: https://www.prisma.io  
 [link-sketch]: https://www.sketch.com
-  
+[link-hugo]: https://gohugo.io
+
+<!-- UNUSED
 [link-colab]: https://colab.research.google.com/notebooks/intro.ipynb
 [link-homebrew]: https://brew.sh
 [link-latex]: https://www.latex-project.org/get/
 [link-pihole]: https://pi-hole.net
+-->
 
   
-<!-- LOGOS -->
+<!-------- LOGOS -------->
 
 [linkedin]: https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin
 [netbeans]: https://img.shields.io/badge/-netbeans-blue?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white
@@ -160,12 +176,15 @@
 [postman]: https://img.shields.io/badge/-postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [prisma]: https://img.shields.io/badge/-prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white
 [sketch]: https://img.shields.io/badge/-sketch-e0a504?style=for-the-badge&logo=sketch&logoColor=white
-  
+[hugo]:  https://shields.io/badge/-hugo-EB5188?style=for-the-badge&logo=hugo&logoColor=white
+
+<!-- UNUSED
 [colab]: https://img.shields.io/badge/-colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=white
 [homebrew]: https://img.shields.io/badge/-homebrew-e09431?style=for-the-badge&logo=homebrew&logoColor=white
 [latex]: https://img.shields.io/badge/-latex-008080?style=for-the-badge&logo=latex&logoColor=white
 [pihole]: https://img.shields.io/badge/-pihole-96060C?style=for-the-badge&logo=pihole&logoColor=white
-  
+-->
+
 [github]: https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white
 [gitlab]: https://img.shields.io/badge/-gitlab-white?style=for-the-badge&logo=gitlab&logoColor=white
 [android-studio]: https://img.shields.io/badge/-android%20studio-44A833?style=for-the-badge&logoColor=white&logo=androidstudio
