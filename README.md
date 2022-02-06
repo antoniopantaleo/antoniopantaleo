@@ -7,14 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (2/5/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (2/6/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**My project manager posted in linkedin 'When I die,I want my developers to carry my coffin so that they can put me down one last time"**
+**The programmer's wife tells him: "Run to the store and pick up a loaf of bread. If they have eggs, get a dozen".**
 
-*I commented on that post 
-
-"For the first time ,you have mentioned the requirements clearly".*
+*The programmer comes home with 12 loaves of bread.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
