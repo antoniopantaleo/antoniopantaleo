@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (2/6/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (2/7/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**The programmer's wife tells him: "Run to the store and pick up a loaf of bread. If they have eggs, get a dozen".**
+**How do you tell a programmer from a DnD player?**
 
-*The programmer comes home with 12 loaves of bread.*
+*Ask them to complete the list: int, char, str...*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
