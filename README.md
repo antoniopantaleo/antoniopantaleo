@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (2/7/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (2/8/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How do you tell a programmer from a DnD player?**
+**A wife asks her programmer husband to go to the store..**
 
-*Ask them to complete the list: int, char, str...*
+*'Can you go down to the store, and get a gallon of milk, and if they have eggs, get 6.'Later on he returns home and she looks at his purchases and says 'Why the fuck do you have 6 gallons of milk?'He responded 'They had eggs.'*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
