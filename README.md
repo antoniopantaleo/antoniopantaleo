@@ -15,9 +15,15 @@
 *Because the light attracts too many bugs*
 <!-- script:end JOKE -->
 
-## 🏆 My Last Project
+## 🏆 My Latest Projects
 
-[![APDynamicGrid Project Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=apdynamicgrid&hide_border=true)](https://github.com/antoniopantaleo/APDynamicGrid)
+<a href="https://github.com/antoniopantaleo/APDynamicGrid">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=apdynamicgrid&hide_border=true" height="125"/>  
+</a>
+
+<a href="https://github.com/antoniopantaleo/docker-vim">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=docker-vim&hide_border=true" height="125"/>  
+</a>
 
 ## 🧑🏽‍💻 About 
 
