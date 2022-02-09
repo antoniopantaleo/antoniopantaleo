@@ -7,12 +7,12 @@
 <img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (2/8/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (2/9/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A wife asks her programmer husband to go to the store..**
+**Why do most programmers use dark mode?**
 
-*'Can you go down to the store, and get a gallon of milk, and if they have eggs, get 6.'Later on he returns home and she looks at his purchases and says 'Why the fuck do you have 6 gallons of milk?'He responded 'They had eggs.'*
+*Because the light attracts too many bugs*
 <!-- script:end JOKE -->
 
 ## 🏆 My Last Project
