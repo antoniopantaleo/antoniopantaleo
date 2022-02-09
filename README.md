@@ -18,11 +18,11 @@
 ## 🏆 My Latest Projects
 
 <a href="https://github.com/antoniopantaleo/APDynamicGrid">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=apdynamicgrid&hide_border=true" height="125"/>  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=apdynamicgrid&hide_border=true"/>  
 </a>
 
 <a href="https://github.com/antoniopantaleo/docker-vim">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=docker-vim&hide_border=true" height="125"/>  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=docker-vim&hide_border=true"/>  
 </a>
 
 ## 🧑🏽‍💻 About 
