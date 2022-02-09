@@ -4,7 +4,6 @@
 
 <span>
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
-<img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
 </span>
 
 ## 📆 Joke of the day <!-- script:start TODAY --> (2/9/2022) <!-- script:end TODAY -->
@@ -17,13 +16,18 @@
 
 ## 🏆 My Latest Projects
 
+<span>
+  <img align="right" alt="octocat" width="330px" src="assets/octocat.png" />
+<div>
 <a href="https://github.com/antoniopantaleo/APDynamicGrid">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=apdynamicgrid&hide_border=true"/>  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=apdynamicgrid&hide_border=true" width="400"/>  
 </a>
-
+<br/>
 <a href="https://github.com/antoniopantaleo/docker-vim">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=docker-vim&hide_border=true"/>  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=docker-vim&hide_border=true" width="400"/>  
 </a>
+</div>
+</span>
 
 ## 🧑🏽‍💻 About 
 
