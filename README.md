@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (2/9/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (2/10/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do most programmers use dark mode?**
+**Spiders must be...**
 
-*Because the light attracts too many bugs*
+*the only web developers who like bugs.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
