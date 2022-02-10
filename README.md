@@ -99,7 +99,7 @@
 
 <span>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniopantaleo&layout=compact" width="31%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniopantaleo&layout=compact" width="26.5%"/>
 <a/>
   
 <img src="https://github-readme-streak-stats.herokuapp.com?user=antoniopantaleo&hide_border=true&date_format=j%2Fn%5B%2FY%5D" width="31.5%"/>
