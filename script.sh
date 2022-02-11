@@ -1,8 +1,15 @@
 #! bin/bash
 
+###################################################################
+#Script Name	  :   Replacer
+#Description	  :   Update the README.md file
+#Args           :   None
+#Author       	:   Antonio Pantaleo
+#Email         	:   antonio_pantaleo@icloud.com
+###################################################################
+
 DATE=$(date +'%d\/%m\/%Y')
 JOKE=$(curl https://joke-of-the-day-api.herokuapp.com/joke-of-the-day)
-
 QUESTION=$(jq .question <<< $JOKE | sed 's/"//g')
 ANSWER=$(jq .answer <<< $JOKE | sed 's/"//g')
 
