@@ -15,7 +15,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install curl jq perl -y
       - name: update README
-        run: bash script.sh
+        run: bash .github/script.sh
       - name: commit
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"

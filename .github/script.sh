@@ -1,8 +1,8 @@
 #! bin/bash
 
 ###################################################################
-#Script Name	  :   Replacer
-#Description	  :   Update the README.md file
+#Script Name	:   Replacer
+#Description	:   Update the README.md file
 #Args           :   None
 #Author       	:   Antonio Pantaleo
 #Email         	:   antonio_pantaleo@icloud.com
