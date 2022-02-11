@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (2/10/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (2/11/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Spiders must be...**
+**(Programmer) What did 0 say to 1?**
 
-*the only web developers who like bugs.*
+*You're a bit too much.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
