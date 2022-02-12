@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/02/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/02/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do Java developers have bad eyesight?**
+**How long does a programmer last in bed?**
 
-*Because they can't C#*
+*Just a bit*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
