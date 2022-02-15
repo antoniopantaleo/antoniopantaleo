@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (14/02/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (15/02/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What does a programmer say when he loses his glasses?**
+**Why do blind programmers use Java?**
 
-*Help! I can't C#*
+*Because they can't C.(I'm so sorry.)*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
