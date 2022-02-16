@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (15/02/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (16/02/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do blind programmers use Java?**
+**Why did the developers have to delay their pirate game?**
 
-*Because they can't C.(I'm so sorry.)*
+*They needed to give their characters an eye-patch.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
