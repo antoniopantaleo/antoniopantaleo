@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (16/02/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (17/02/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the developers have to delay their pirate game?**
+**Why do programmers need glasses?**
 
-*They needed to give their characters an eye-patch.*
+*So they can see sharp.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
