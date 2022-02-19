@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (18/02/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (19/02/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How many software developers does it take to screw in a lightbulb**
+**Why can't early access developers ever have children?**
 
-*About 1101*
+*They can never finish.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
