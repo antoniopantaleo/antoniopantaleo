@@ -6,12 +6,13 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (19/02/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (20/02/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why can't early access developers ever have children?**
+**What do white girls and web developers have in common?**
 
-*They can never finish.*
+*nobody ever compliments our back end 
+:(*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
