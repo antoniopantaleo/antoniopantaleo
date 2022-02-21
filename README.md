@@ -6,13 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (20/02/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (21/02/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do white girls and web developers have in common?**
+**The most common type of web developers are not even human**
 
-*nobody ever compliments our back end 
-:(*
+*they are spiders*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
