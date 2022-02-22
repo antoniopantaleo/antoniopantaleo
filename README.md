@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (21/02/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (22/02/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**The most common type of web developers are not even human**
+**A programmer and an engineer**
 
-*they are spiders*
+*A Programmer and an Engineer are sitting next to each other on a very long flight from LA to NY. The Programmer leans over to the Engineer and asks if he would like to play a fun game. The Engineer just wants to take a nap, so he politely declines and rolls over to the window to catch a few winks.... read more*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
