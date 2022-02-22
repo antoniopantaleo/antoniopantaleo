@@ -9,9 +9,9 @@
 ## 📆 Joke of the day <!-- script:start TODAY --> (22/02/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**A programmer and an engineer**
+**Why do java developers always wear eyeglasses?**
 
-*A Programmer and an Engineer are sitting next to each other on a very long flight from LA to NY. The Programmer leans over to the Engineer and asks if he would like to play a fun game. The Engineer just wants to take a nap, so he politely declines and rolls over to the window to catch a few winks.... read more*
+*Because they dont C#*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
