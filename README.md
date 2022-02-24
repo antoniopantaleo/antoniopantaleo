@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (23/02/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (24/02/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How many software developers does it take to screw in a lightbulb?**
+**What does a programmer wear?**
 
-*I'm sorry, that appears to be a hardware problem.*
+*Whatever is in the dress code.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
