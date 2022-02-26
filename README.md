@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (25/02/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (26/02/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Web Developers**
+**Why do Python programmers have low self esteem?**
 
-*Spiders are the only web developers happy to find bugs.*
+*They're constantly comparing their self to other.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
