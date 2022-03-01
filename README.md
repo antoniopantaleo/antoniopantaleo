@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (28/02/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (01/03/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**You know whats favorite drink of developers?**
+**What does a programmer say after reading the fortune they get from a fortune cookie?**
 
-*....MOUNTAIN DEV*
+*Embed*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
