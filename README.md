@@ -9,9 +9,9 @@
 ## 📆 Joke of the day <!-- script:start TODAY --> (02/03/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Genders are a lot like booleans.**
+**Why do programmers prefer using the dark mode?**
 
-*There's only two of them.*
+*Because light attracts bugs.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
