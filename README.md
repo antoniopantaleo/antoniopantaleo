@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (02/03/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (03/03/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers prefer using the dark mode?**
+**Why did the Python programmer not respond to the foreign mails he got?**
 
-*Because light attracts bugs.*
+*Because his interpreter was busy collecting garbage.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
