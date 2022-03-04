@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (03/03/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (04/03/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the Python programmer not respond to the foreign mails he got?**
+**What do you get if you lock a monkey in a room with a typewriter for 8 hours?**
 
-*Because his interpreter was busy collecting garbage.*
+*A regular expression.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
