@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (05/03/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (06/03/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Hey, wanna hear a joke?**
+**How can you tell an extroverted programmer?**
 
-*Parsing HTML with regex.*
+*He looks at YOUR shoes when he's talking.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
