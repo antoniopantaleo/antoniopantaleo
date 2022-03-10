@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (09/03/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/03/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**So what's a set of predefined steps the government might take to preserve the environment?**
+**Why did the Python data scientist get arrested at customs?**
 
-*An Al-Gore-ithm.*
+*She was caught trying to import pandas!*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
