@@ -9,9 +9,9 @@
 ## 📆 Joke of the day <!-- script:start TODAY --> (11/03/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-****
+**Why did the web developer walk out of a resturant in disgust?**
 
-**
+*The seating was laid out in tables.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
