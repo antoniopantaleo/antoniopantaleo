@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/03/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (13/03/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How did you make your friend rage?**
+**Why did the Python data scientist get arrested at customs?**
 
-*I implemented a greek question mark in his JavaScript code.*
+*She was caught trying to import pandas!*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
