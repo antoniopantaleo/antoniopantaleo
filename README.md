@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (16/03/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (17/03/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How do you generate a random string?**
+**Why is 6 afraid of 7 in hexadecimal Canada?**
 
-*Put a Windows user in front of Vim and tell them to exit.*
+*Because 7 8 9 A?*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
