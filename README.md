@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (20/03/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (21/03/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are modern programming languages so materialistic?**
+**why do python programmers wear glasses?**
 
-*Because they are object-oriented.*
+*Because they can't C.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
