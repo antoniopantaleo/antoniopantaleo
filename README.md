@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (23/03/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (24/03/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**why do python programmers wear glasses?**
+**What do you get if you lock a monkey in a room with a typewriter for 8 hours?**
 
-*Because they can't C.*
+*A regular expression.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
