@@ -6,12 +6,12 @@
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (24/03/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (25/03/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you get if you lock a monkey in a room with a typewriter for 8 hours?**
+**Why do programmers prefer using the dark mode?**
 
-*A regular expression.*
+*Because light attracts bugs.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
