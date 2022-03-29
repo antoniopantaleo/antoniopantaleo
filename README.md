@@ -1,4 +1,4 @@
-<img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
+<img align="left" alt="octocat" width="280px" src="assets/octocat.png" />
 
 # Hi <img width="35px" src="assets/hello.gif"> <br/> I'm Antonio Pantaleo
 
