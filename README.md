@@ -1,10 +1,10 @@
+<img align="right" alt="octocat" width="300px" src="assets/octocat.png" />
+
 # Hi <img width="35px" src="assets/hello.gif"> <br/> I'm Antonio Pantaleo
 
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/antoniopantaleo/antoniopantaleo/Joke%20Of%20The%20Day?label=workflow&style=flat-square&logo=github)](https://github.com/antoniopantaleo/antoniopantaleo/actions/workflows/joke-of-the-day.yml) 
 
-<span>
 <img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
-</span>
 
 ## 📆 Joke of the day <!-- script:start TODAY --> (29/03/2022) <!-- script:end TODAY -->
 
@@ -15,18 +15,13 @@
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
-
-<span>
-  <img align="right" alt="octocat" width="330px" src="assets/octocat.png" />
-<div>
 <a href="https://github.com/antoniopantaleo/APDynamicGrid">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=apdynamicgrid&hide_border=false" width="400"/>  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=apdynamicgrid&hide_border=false" height="150"/>  
 </a>
 <a href="https://github.com/antoniopantaleo/docker-vim">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=docker-vim&hide_border=false" width="400"/>  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=docker-vim&hide_border=false" height="150"/>  
 </a>
-</div>
-</span>
+
 
 ## ⭐️ Contributed to
 
@@ -105,10 +100,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniopantaleo&layout=compact" width="26.5%"/>
 <a/>
   
-<img src="https://github-readme-streak-stats.herokuapp.com?user=antoniopantaleo&hide_border=true&date_format=j%2Fn%5B%2FY%5D" width="31.5%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=antoniopantaleo&hide_border=false&date_format=j%2Fn%5B%2FY%5D" width="31.5%"/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api?username=antoniopantaleo&show_icons=true&hide_border=true&count_private=true&hide=issues&custom_title=Stats&icon_color=DE5D43&disable_animations=true" width="36%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=antoniopantaleo&show_icons=true&hide_border=false&count_private=true&hide=issues&custom_title=Stats&icon_color=DE5D43&disable_animations=true" width="36%"/>
 <a/>
 <span/>
  
