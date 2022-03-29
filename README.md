@@ -1,10 +1,13 @@
-<img align="left" alt="octocat" width="280px" src="assets/octocat.png" />
+<span>
+<img align="right" alt="octocat" width="25%" src="assets/octocat.png" />
+<h1>Hi <img width="35px" src="assets/hello.gif"> <br/> I'm Antonio Pantaleo</h1>
+<img width="70%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
+</span>
 
-# Hi <img width="35px" src="assets/hello.gif"> <br/> I'm Antonio Pantaleo
+<br/>
 
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/antoniopantaleo/antoniopantaleo/Joke%20Of%20The%20Day?label=workflow&style=flat-square&logo=github)](https://github.com/antoniopantaleo/antoniopantaleo/actions/workflows/joke-of-the-day.yml) 
 
-<img width="600em" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 
 ## 📆 Joke of the day <!-- script:start TODAY --> (29/03/2022) <!-- script:end TODAY -->
 
