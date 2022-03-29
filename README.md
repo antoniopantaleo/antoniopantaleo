@@ -22,12 +22,15 @@
 <a href="https://github.com/antoniopantaleo/APDynamicGrid">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=apdynamicgrid&hide_border=false" width="400"/>  
 </a>
-<br/>
 <a href="https://github.com/antoniopantaleo/docker-vim">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=docker-vim&hide_border=false" width="400"/>  
 </a>
 </div>
 </span>
+
+## ⭐️ Contributed to
+
+- [ndp/git-cheatsheet](https://github.com/ndp/git-cheatsheet) - Italian Translation
 
 ## 🧑🏽‍💻 About 
 
@@ -41,7 +44,7 @@
 
 🍺  When I'm not coding, I like to make music, run or go out with friends and take a cold beer
 
-## ⭐️ Skills
+## 🎯 Skills
 <details>
   <summary><em>Click to expand!</em></summary>
   
