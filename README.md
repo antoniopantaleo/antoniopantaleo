@@ -20,11 +20,11 @@
   <img align="right" alt="octocat" width="330px" src="assets/octocat.png" />
 <div>
 <a href="https://github.com/antoniopantaleo/APDynamicGrid">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=apdynamicgrid&hide_border=true" width="400"/>  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=apdynamicgrid&hide_border=false" width="400"/>  
 </a>
 <br/>
 <a href="https://github.com/antoniopantaleo/docker-vim">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=docker-vim&hide_border=true" width="400"/>  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=docker-vim&hide_border=false" width="400"/>  
 </a>
 </div>
 </span>
