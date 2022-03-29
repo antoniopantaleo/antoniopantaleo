@@ -24,7 +24,7 @@
 </a>
 
 
-## ⭐️ Contributed to
+## 🌟 Contributed to
 
 - [ndp/git-cheatsheet](https://github.com/ndp/git-cheatsheet) - Italian Translation
 
