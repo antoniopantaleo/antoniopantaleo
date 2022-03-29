@@ -2,9 +2,9 @@
 
 
 <span>
-<img align="right" alt="octocat" width="25%" src="assets/octocat.png" />
+<img align="right" alt="octocat" width="29%" src="assets/octocat.png" />
 <h1>Hi <img width="35px" src="assets/hello.gif"> <br/> I'm Antonio Pantaleo</h1>
-<img width="70%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
+<img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
 ## 📆 Joke of the day <!-- script:start TODAY --> (29/03/2022) <!-- script:end TODAY -->
