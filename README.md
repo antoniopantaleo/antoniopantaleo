@@ -1,4 +1,4 @@
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/antoniopantaleo/antoniopantaleo/Joke%20Of%20The%20Day?label=workflow&style=flat-square&logo=github)](https://github.com/antoniopantaleo/antoniopantaleo/actions/workflows/joke-of-the-day.yml) 
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/antoniopantaleo/antoniopantaleo/Joke%20Of%20The%20Day?label=joke%20of%20the%20day&style=flat-square&logo=github)](https://github.com/antoniopantaleo/antoniopantaleo/actions/workflows/joke-of-the-day.yml) 
 
 
 <span>
