@@ -171,6 +171,8 @@
 [link-homebrew]: https://brew.sh
 [link-latex]: https://www.latex-project.org/get/
 [link-pihole]: https://pi-hole.net
+
+[link-medium]: 	https://medium.com/@antonio_pantaleo
 -->
 
   
@@ -190,6 +192,8 @@
 [homebrew]: https://img.shields.io/badge/-homebrew-e09431?style=for-the-badge&logo=homebrew&logoColor=white
 [latex]: https://img.shields.io/badge/-latex-008080?style=for-the-badge&logo=latex&logoColor=white
 [pihole]: https://img.shields.io/badge/-pihole-96060C?style=for-the-badge&logo=pihole&logoColor=white
+
+[medium]: https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium
 -->
 
 [github]: https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white
