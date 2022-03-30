@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (29/03/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (30/03/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How do you generate a random string?**
+**.NET developers are picky when it comes to food.**
 
-*Put a Windows user in front of Vim and tell them to exit.*
+*They only like chicken NuGet.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
