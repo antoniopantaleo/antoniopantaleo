@@ -40,9 +40,8 @@
 
 🍺  When I'm not coding, I like to make music, run or go out with friends and take a cold beer
 
-## 🎯 Skills
 <details>
-  <summary><em>Click to expand!</em></summary>
+  <summary><h2>🎯 Skills (tap to expand)</h2></summary>
   
   #### Programming Languages
 
