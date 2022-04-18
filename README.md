@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (17/04/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (18/04/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the functional programmer get thrown out of school?**
+**How can you tell an extroverted programmer?**
 
-*Because he refused to take classes.*
+*He looks at YOUR shoes when he's talking.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
