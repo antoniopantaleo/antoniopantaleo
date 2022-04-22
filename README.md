@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (21/04/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (22/04/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you call a group of 8 Hobbits?**
+**Why do they call it hyper terminal?**
 
-*A Hobbyte.*
+*Too much Java.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
