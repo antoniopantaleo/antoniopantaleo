@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (22/04/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (23/04/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do they call it hyper terminal?**
+**Hey, wanna hear a joke?**
 
-*Too much Java.*
+*Parsing HTML with regex.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
