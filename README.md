@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (28/04/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (29/04/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How can you tell an extroverted programmer?**
+**.NET developers are picky when it comes to food.**
 
-*He looks at YOUR shoes when he's talking.*
+*They only like chicken NuGet.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
