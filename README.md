@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (29/04/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (30/04/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**.NET developers are picky when it comes to food.**
+**How did the programmer die in the shower?**
 
-*They only like chicken NuGet.*
+*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
