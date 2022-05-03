@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (02/05/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (03/05/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What are bits?**
+**Hey baby I wish your name was asynchronous...**
 
-*Tiny things left when you drop your computer down the stairs.*
+*... so you'd give me a callback.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
