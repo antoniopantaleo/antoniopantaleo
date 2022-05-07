@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (06/05/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (07/05/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you call a group of 8 Hobbits?**
+**Why did the programmer quit his job?**
 
-*A Hobbyte.*
+*Because he didn't get arrays.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
