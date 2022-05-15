@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (14/05/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (15/05/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why was the JavaScript developer sad?**
+**What is the most used language in programming?**
 
-*Because they didn't Node how to Express themself!*
+*Profanity.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
