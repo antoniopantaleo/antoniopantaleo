@@ -13,9 +13,10 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
+          sudo apt-get upgrade -y
           sudo apt-get install curl jq perl -y
       - name: update README
-        run: bash .github/script.sh
+        run: bash .github/joke-of-the-day.sh
       - name: commit
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
