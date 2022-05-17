@@ -45,7 +45,7 @@
   
   #### Programming Languages
 
-  [![Swift]][link-swift] [![Java]][link-java] [![Python]][link-python] [![Dart]][link-dart] [![typescript]][link-typescript] [![javascript]][link-javascript]
+  [![Swift]][link-swift] [![Java]][link-java] [![Python]][link-python] [![Dart]][link-dart] [![typescript]][link-typescript] [![javascript]][link-javascript] [![bash]][link-bash]
 
   #### Frontend
 
@@ -74,6 +74,9 @@
   #### Static Website Generators
   
   [![Hugo]][link-hugo]
+  
+  #### CICD
+  [![Docker]][link-docker]
 
   #### IDEs
 
@@ -164,6 +167,8 @@
 [link-prisma]: https://www.prisma.io  
 [link-sketch]: https://www.sketch.com
 [link-hugo]: https://gohugo.io
+[link-docker]: https://www.docker.com
+[link-bash]: https://www.gnu.org/software/bash
 
 <!-- UNUSED
 [link-colab]: https://colab.research.google.com/notebooks/intro.ipynb
@@ -185,6 +190,8 @@
 [prisma]: https://img.shields.io/badge/-prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white
 [sketch]: https://img.shields.io/badge/-sketch-e0a504?style=for-the-badge&logo=sketch&logoColor=white
 [hugo]:  https://shields.io/badge/-hugo-EB5188?style=for-the-badge&logo=hugo&logoColor=white
+[docker]: https://shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[bash]: https://shields.io/badge/-bash-gray?style=for-the-badge&logo=gnu-bash&logoColor=white
 
 <!-- UNUSED
 [colab]: https://img.shields.io/badge/-colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=white
