@@ -16,11 +16,12 @@
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
+
 <a href="https://github.com/antoniopantaleo/APDynamicGrid">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=apdynamicgrid&hide_border=false" width="45%"/>  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=apdynamicgrid&hide_border=false" width="39%"/>  
 </a>
-<a href="https://github.com/antoniopantaleo/docker-vim">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=docker-vim&hide_border=false" width="38.5%"/>  
+<a href="https://github.com/antoniopantaleo/apflipdigits">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=apflipdigits&hide_border=false" width="39%"/>  
 </a>
 
 
