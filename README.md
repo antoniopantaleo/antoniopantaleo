@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (31/05/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (01/06/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What is a dying programmer's last program?**
+**.NET developers are picky when it comes to food.**
 
-*Goodbye, world!*
+*They only like chicken NuGet.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
