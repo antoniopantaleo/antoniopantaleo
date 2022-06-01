@@ -3,7 +3,7 @@
 
 <span>
 <img align="right" alt="octocat" width="29%" src="assets/octocat.png" />
-<h1>Hi <img width="35px" src="assets/hello.gif"> <br/> I'm Antonio Pantaleo</h1>
+<h1>Hi <img width="35" src="assets/hello.gif"> <br/> I'm Antonio Pantaleo</h1>
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
