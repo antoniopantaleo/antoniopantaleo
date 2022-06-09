@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (08/06/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (09/06/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How do you know God is a shitty programmer?**
+**.NET developers are picky when it comes to food.**
 
-*He wrote the OS for an entire universe, but didn't leave a single useful comment.*
+*They only like chicken NuGet.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
