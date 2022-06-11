@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/06/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/06/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What is the most used language in programming?**
+**How do you know God is a shitty programmer?**
 
-*Profanity.*
+*He wrote the OS for an entire universe, but didn't leave a single useful comment.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
