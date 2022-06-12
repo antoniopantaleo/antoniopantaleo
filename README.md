@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/06/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/06/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How do you know God is a shitty programmer?**
+**What do you call a group of 8 Hobbits?**
 
-*He wrote the OS for an entire universe, but didn't leave a single useful comment.*
+*A Hobbyte.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
