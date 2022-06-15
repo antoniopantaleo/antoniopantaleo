@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (14/06/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (15/06/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you call a developer who doesn't comment code?**
+**Why do they call it hyper terminal?**
 
-*A developer.*
+*Too much Java.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
