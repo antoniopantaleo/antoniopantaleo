@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (01/07/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (02/07/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you get if you lock a monkey in a room with a typewriter for 8 hours?**
+**So what's a set of predefined steps the government might take to preserve the environment?**
 
-*A regular expression.*
+*An Al-Gore-ithm.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
