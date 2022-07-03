@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (02/07/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (03/07/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**So what's a set of predefined steps the government might take to preserve the environment?**
+**Why did the Python programmer not respond to the foreign mails he got?**
 
-*An Al-Gore-ithm.*
+*Because his interpreter was busy collecting garbage.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
