@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (05/07/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (06/07/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What are bits?**
+**What's the object-oriented way to become wealthy?**
 
-*Tiny things left when you drop your computer down the stairs.*
+*Inheritance.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
