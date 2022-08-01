@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (31/07/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (01/08/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the programmer jump on the table?**
+**Why is Linux safe?**
 
-*Because debug was on his screen.*
+*Hackers peak through Windows only.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
