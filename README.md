@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (06/08/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (07/08/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you call a developer who doesn't comment code?**
+**Why does no one like SQLrillex?**
 
-*A developer.*
+*He keeps dropping the database.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
