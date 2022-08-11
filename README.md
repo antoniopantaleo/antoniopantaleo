@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/08/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/08/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-****
+**why do python programmers wear glasses?**
 
-**
+*Because they can't C.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
