@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (17/08/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (18/08/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What is a dying programmer's last program?**
+**How can you tell an extroverted programmer?**
 
-*Goodbye, world!*
+*He looks at YOUR shoes when he's talking.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
