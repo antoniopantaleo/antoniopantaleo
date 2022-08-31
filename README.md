@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (30/08/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (31/08/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the web developer walk out of a resturant in disgust?**
+**Why was the JavaScript developer sad?**
 
-*The seating was laid out in tables.*
+*Because they didn't Node how to Express themself!*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
