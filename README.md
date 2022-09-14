@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (13/09/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (14/09/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the Python data scientist get arrested at customs?**
+**.NET developers are picky when it comes to food.**
 
-*She was caught trying to import pandas!*
+*They only like chicken NuGet.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
