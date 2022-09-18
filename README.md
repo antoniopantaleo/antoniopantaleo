@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (17/09/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (18/09/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How do you generate a random string?**
+**Why do Java programmers hate communism?**
 
-*Put a Windows user in front of Vim and tell them to exit.*
+*They don't want to live in a classless society.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
