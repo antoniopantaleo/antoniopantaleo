@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (20/09/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (21/09/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you call a developer who doesn't comment code?**
+**Genders are a lot like booleans.**
 
-*A developer.*
+*There's only two of them.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
