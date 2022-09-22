@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (21/09/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (22/09/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Genders are a lot like booleans.**
+**Why do they call it hyper terminal?**
 
-*There's only two of them.*
+*Too much Java.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
