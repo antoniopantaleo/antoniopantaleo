@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (23/09/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (24/09/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do Java programmers hate communism?**
+**Why did the functional programmer get thrown out of school?**
 
-*They don't want to live in a classless society.*
+*Because he refused to take classes.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
