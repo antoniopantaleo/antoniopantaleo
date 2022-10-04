@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (03/10/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (04/10/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Genders are a lot like booleans.**
+**Why is Linux safe?**
 
-*There's only two of them.*
+*Hackers peak through Windows only.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
