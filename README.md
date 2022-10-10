@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (09/10/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/10/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How did you make your friend rage?**
+**What do you call a group of 8 Hobbits?**
 
-*I implemented a greek question mark in his JavaScript code.*
+*A Hobbyte.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
