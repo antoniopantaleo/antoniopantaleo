@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (17/10/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (18/10/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What is a dying programmer's last program?**
+**So what's a set of predefined steps the government might take to preserve the environment?**
 
-*Goodbye, world!*
+*An Al-Gore-ithm.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
