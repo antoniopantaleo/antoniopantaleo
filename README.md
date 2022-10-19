@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (18/10/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (19/10/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**So what's a set of predefined steps the government might take to preserve the environment?**
+**Why did the functional programmer get thrown out of school?**
 
-*An Al-Gore-ithm.*
+*Because he refused to take classes.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
