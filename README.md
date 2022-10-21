@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (20/10/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (21/10/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do Java programmers hate communism?**
+**Programming is like sex.**
 
-*They don't want to live in a classless society.*
+*Make one mistake and you end up supporting it for the rest of your life.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
