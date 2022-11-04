@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (03/11/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (04/11/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do they call it hyper terminal?**
+**So what's a set of predefined steps the government might take to preserve the environment?**
 
-*Too much Java.*
+*An Al-Gore-ithm.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
