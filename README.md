@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (06/11/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (07/11/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you call a group of 8 Hobbits?**
+**Why did the functional programmer get thrown out of school?**
 
-*A Hobbyte.*
+*Because he refused to take classes.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
