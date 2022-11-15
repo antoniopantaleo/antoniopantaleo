@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (14/11/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (15/11/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are modern programming languages so materialistic?**
+**Why do programmers prefer using the dark mode?**
 
-*Because they are object-oriented.*
+*Because light attracts bugs.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
