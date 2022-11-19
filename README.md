@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (18/11/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (19/11/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why was the JavaScript developer sad?**
+**Why do programmers confuse Halloween and Christmas?**
 
-*Because they didn't Node how to Express themself!*
+*Because Oct 31 = Dec 25*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
