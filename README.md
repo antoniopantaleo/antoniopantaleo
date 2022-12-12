@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/12/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/12/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why is Linux safe?**
+**Why do programmers wear glasses?**
 
-*Hackers peak through Windows only.*
+*Because they need to C#*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
