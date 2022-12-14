@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (13/12/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (14/12/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why was the JavaScript developer sad?**
+**How many programmers does it take to screw in a light bulb?**
 
-*Because they didn't Node how to Express themself!*
+*None. It's a hardware problem.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
