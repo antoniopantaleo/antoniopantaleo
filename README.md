@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (21/12/2022) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (22/12/2022) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers prefer using the dark mode?**
+**What are bits?**
 
-*Because light attracts bugs.*
+*Tiny things left when you drop your computer down the stairs.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
