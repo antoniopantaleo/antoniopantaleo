@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (07/01/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (08/01/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do Java programmers hate communism?**
+**Why are Assembly programmers always soaking wet?**
 
-*They don't want to live in a classless society.*
+*They work below C-level.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
