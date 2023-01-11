@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/01/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/01/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why does no one like SQLrillex?**
+**Why did the database administrator leave his wife?**
 
-*He keeps dropping the database.*
+*She had one-to-many relationships.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
