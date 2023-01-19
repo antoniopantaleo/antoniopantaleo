@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (18/01/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (19/01/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the programmer quit his job?**
+**Programming is like sex.**
 
-*Because he didn't get arrays.*
+*Make one mistake and you end up supporting it for the rest of your life.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
