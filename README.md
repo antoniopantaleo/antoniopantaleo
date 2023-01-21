@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (20/01/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (21/01/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How did the programmer die in the shower?**
+**What are bits?**
 
-*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
+*Tiny things left when you drop your computer down the stairs.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
