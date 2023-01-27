@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (26/01/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (27/01/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Programming is like sex.**
+**Why are Assembly programmers always soaking wet?**
 
-*Make one mistake and you end up supporting it for the rest of your life.*
+*They work below C-level.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
