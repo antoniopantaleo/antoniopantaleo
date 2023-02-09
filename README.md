@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (08/02/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (09/02/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How did the programmer die in the shower?**
+**How can you tell an extroverted programmer?**
 
-*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
+*He looks at YOUR shoes when he's talking.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
