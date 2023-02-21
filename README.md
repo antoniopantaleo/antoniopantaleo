@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (20/02/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (21/02/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What's the object-oriented way to become wealthy?**
+**Why do programmers prefer using the dark mode?**
 
-*Inheritance.*
+*Because light attracts bugs.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
