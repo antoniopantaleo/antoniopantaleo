@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (26/02/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (27/02/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How do you generate a random string?**
+**What is the most used language in programming?**
 
-*Put a Windows user in front of Vim and tell them to exit.*
+*Profanity.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
