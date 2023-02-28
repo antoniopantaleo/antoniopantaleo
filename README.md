@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (27/02/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (28/02/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What is the most used language in programming?**
+**What do you call a group of 8 Hobbits?**
 
-*Profanity.*
+*A Hobbyte.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
