@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (28/02/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (01/03/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you call a group of 8 Hobbits?**
+**.NET developers are picky when it comes to food.**
 
-*A Hobbyte.*
+*They only like chicken NuGet.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
