@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (07/03/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (08/03/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How do you know God is a shitty programmer?**
+**Why is 6 afraid of 7 in hexadecimal Canada?**
 
-*He wrote the OS for an entire universe, but didn't leave a single useful comment.*
+*Because 7 8 9 A?*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
