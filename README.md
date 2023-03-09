@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (08/03/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (09/03/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why is 6 afraid of 7 in hexadecimal Canada?**
+**How did you make your friend rage?**
 
-*Because 7 8 9 A?*
+*I implemented a greek question mark in his JavaScript code.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
