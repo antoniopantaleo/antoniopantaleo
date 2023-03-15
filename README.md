@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (14/03/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (15/03/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why does no one like SQLrillex?**
+**Why do Java programmers hate communism?**
 
-*He keeps dropping the database.*
+*They don't want to live in a classless society.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
