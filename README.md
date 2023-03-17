@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (16/03/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (17/03/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**.NET developers are picky when it comes to food.**
+**Why does no one like SQLrillex?**
 
-*They only like chicken NuGet.*
+*He keeps dropping the database.*
 <!-- script:end JOKE -->
 
 ## 🏆 My Latest Projects
