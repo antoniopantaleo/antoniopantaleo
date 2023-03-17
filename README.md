@@ -7,6 +7,18 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
+## 🧑🏽‍💻 About 
+
+🏡  <!-- script:start AGE --> 26 <!-- script:end AGE --> years old developer based in Turin, Italy
+
+🎓  I've a master degree in computer engineering
+
+📱  In my daily life I mainly work as a native iOS developer, but I love learning new things, challenge myself and automate repetitive or boring workflows
+
+🛣  On the road to be a proficient iOS engineer
+
+🏊🏼‍♂️  When I'm not coding, I like swimming
+
 ## 📆 Joke of the day <!-- script:start TODAY --> (17/03/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
@@ -14,6 +26,7 @@
 
 *He keeps dropping the database.*
 <!-- script:end JOKE -->
+
 
 ## 🏆 My Latest Projects
 
@@ -28,18 +41,6 @@
 ## 🌟 Contributed to
 
 - [ndp/git-cheatsheet](https://github.com/ndp/git-cheatsheet) - Italian Translation
-
-## 🧑🏽‍💻 About 
-
-🏡  <!-- script:start AGE --> 26 <!-- script:end AGE --> years old developer based in Turin, Italy
-
-🎓  I've a master degree in computer engineering
-
-📱  In my daily life I mainly work as a native iOS developer, but I love learning new things and challenge myself with different technologies
-
-🛣  On the road to be an expert iOS engineer and a proficient full stack developer
-
-🍺  When I'm not coding, I like to make music, run or go out with friends and take a cold beer
 
 <details>
   <summary><h2>🎯 Skills (tap to expand)</h2></summary>
