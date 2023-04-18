@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (17/04/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (18/04/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How many programmers does it take to screw in a light bulb?**
+**Why did the web developer walk out of a resturant in disgust?**
 
-*None. It's a hardware problem.*
+*The seating was laid out in tables.*
 <!-- script:end JOKE -->
 
 
