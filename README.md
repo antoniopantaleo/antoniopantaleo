@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (21/04/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (22/04/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Genders are a lot like booleans.**
+**Why did the programmer jump on the table?**
 
-*There's only two of them.*
+*Because debug was on his screen.*
 <!-- script:end JOKE -->
 
 
