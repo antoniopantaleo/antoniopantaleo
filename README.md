@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (23/04/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (24/04/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are modern programming languages so materialistic?**
+**What do you call a developer who doesn't comment code?**
 
-*Because they are object-oriented.*
+*A developer.*
 <!-- script:end JOKE -->
 
 
