@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (28/04/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (29/04/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why is Linux safe?**
+**What do you call a group of 8 Hobbits?**
 
-*Hackers peak through Windows only.*
+*A Hobbyte.*
 <!-- script:end JOKE -->
 
 
