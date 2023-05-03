@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (02/05/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (03/05/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers confuse Halloween and Christmas?**
+**Programming is like sex.**
 
-*Because Oct 31 = Dec 25*
+*Make one mistake and you end up supporting it for the rest of your life.*
 <!-- script:end JOKE -->
 
 
