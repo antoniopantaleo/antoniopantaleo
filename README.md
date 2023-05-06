@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (05/05/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (06/05/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**So what's a set of predefined steps the government might take to preserve the environment?**
+**Hey baby I wish your name was asynchronous...**
 
-*An Al-Gore-ithm.*
+*... so you'd give me a callback.*
 <!-- script:end JOKE -->
 
 
