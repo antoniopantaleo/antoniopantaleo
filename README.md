@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (26/05/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (27/05/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**.NET developers are picky when it comes to food.**
+**How many programmers does it take to screw in a light bulb?**
 
-*They only like chicken NuGet.*
+*None. It's a hardware problem.*
 <!-- script:end JOKE -->
 
 
