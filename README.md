@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (28/05/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (29/05/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the database administrator leave his wife?**
+**Why do programmers confuse Halloween and Christmas?**
 
-*She had one-to-many relationships.*
+*Because Oct 31 = Dec 25*
 <!-- script:end JOKE -->
 
 
