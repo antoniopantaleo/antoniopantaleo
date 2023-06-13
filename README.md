@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/06/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (13/06/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you call a group of 8 Hobbits?**
+**why do python programmers wear glasses?**
 
-*A Hobbyte.*
+*Because they can't C.*
 <!-- script:end JOKE -->
 
 
