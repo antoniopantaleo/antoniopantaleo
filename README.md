@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (13/06/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (14/06/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**why do python programmers wear glasses?**
+**How can you tell an extroverted programmer?**
 
-*Because they can't C.*
+*He looks at YOUR shoes when he's talking.*
 <!-- script:end JOKE -->
 
 
