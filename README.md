@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (18/06/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (19/06/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers confuse Halloween and Christmas?**
+**Why do they call it hyper terminal?**
 
-*Because Oct 31 = Dec 25*
+*Too much Java.*
 <!-- script:end JOKE -->
 
 
