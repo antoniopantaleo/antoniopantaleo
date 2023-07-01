@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (30/06/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (01/07/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**why do python programmers wear glasses?**
+**Hey baby I wish your name was asynchronous...**
 
-*Because they can't C.*
+*... so you'd give me a callback.*
 <!-- script:end JOKE -->
 
 
