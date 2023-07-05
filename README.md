@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (03/07/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (05/07/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why is Linux safe?**
+**How do you know God is a shitty programmer?**
 
-*Hackers peak through Windows only.*
+*He wrote the OS for an entire universe, but didn't leave a single useful comment.*
 <!-- script:end JOKE -->
 
 
