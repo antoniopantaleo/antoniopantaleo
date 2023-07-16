@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (15/07/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (16/07/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**why do python programmers wear glasses?**
+**Why did the functional programmer get thrown out of school?**
 
-*Because they can't C.*
+*Because he refused to take classes.*
 <!-- script:end JOKE -->
 
 
