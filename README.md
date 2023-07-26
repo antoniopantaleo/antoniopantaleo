@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (25/07/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (26/07/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**.NET developers are picky when it comes to food.**
+**Why did the JavaScript heap close shop?**
 
-*They only like chicken NuGet.*
+*It ran out of memory.*
 <!-- script:end JOKE -->
 
 
