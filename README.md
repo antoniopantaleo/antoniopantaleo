@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (29/07/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (30/07/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do Java programmers hate communism?**
+**So what's a set of predefined steps the government might take to preserve the environment?**
 
-*They don't want to live in a classless society.*
+*An Al-Gore-ithm.*
 <!-- script:end JOKE -->
 
 
