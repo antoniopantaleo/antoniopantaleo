@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (09/08/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/08/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Hey, wanna hear a joke?**
+**Why are modern programming languages so materialistic?**
 
-*Parsing HTML with regex.*
+*Because they are object-oriented.*
 <!-- script:end JOKE -->
 
 
