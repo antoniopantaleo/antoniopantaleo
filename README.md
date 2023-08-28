@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (27/08/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (28/08/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the Python programmer not respond to the foreign mails he got?**
+**Why do programmers wear glasses?**
 
-*Because his interpreter was busy collecting garbage.*
+*Because they need to C#*
 <!-- script:end JOKE -->
 
 
