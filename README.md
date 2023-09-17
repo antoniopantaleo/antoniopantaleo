@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (16/09/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (17/09/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the JavaScript heap close shop?**
+**why do python programmers wear glasses?**
 
-*It ran out of memory.*
+*Because they can't C.*
 <!-- script:end JOKE -->
 
 
