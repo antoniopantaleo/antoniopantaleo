@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (26/09/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (27/09/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Genders are a lot like booleans.**
+**Why does no one like SQLrillex?**
 
-*There's only two of them.*
+*He keeps dropping the database.*
 <!-- script:end JOKE -->
 
 
