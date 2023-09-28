@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (27/09/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (28/09/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why does no one like SQLrillex?**
+**Why do programmers prefer using the dark mode?**
 
-*He keeps dropping the database.*
+*Because light attracts bugs.*
 <!-- script:end JOKE -->
 
 
