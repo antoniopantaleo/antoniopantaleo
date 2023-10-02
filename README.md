@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (01/10/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (02/10/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you call a developer who doesn't comment code?**
+**Why did the functional programmer get thrown out of school?**
 
-*A developer.*
+*Because he refused to take classes.*
 <!-- script:end JOKE -->
 
 
