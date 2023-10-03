@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (02/10/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (03/10/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the functional programmer get thrown out of school?**
+**Genders are a lot like booleans.**
 
-*Because he refused to take classes.*
+*There's only two of them.*
 <!-- script:end JOKE -->
 
 
