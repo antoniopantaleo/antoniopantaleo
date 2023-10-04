@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (03/10/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (04/10/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Genders are a lot like booleans.**
+**Why is 6 afraid of 7 in hexadecimal Canada?**
 
-*There's only two of them.*
+*Because 7 8 9 A?*
 <!-- script:end JOKE -->
 
 
