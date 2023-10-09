@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (08/10/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (09/10/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How many programmers does it take to screw in a light bulb?**
+**Why did the Python programmer not respond to the foreign mails he got?**
 
-*None. It's a hardware problem.*
+*Because his interpreter was busy collecting garbage.*
 <!-- script:end JOKE -->
 
 
