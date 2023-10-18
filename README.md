@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (17/10/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (18/10/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you call a developer who doesn't comment code?**
+**Why did the JavaScript heap close shop?**
 
-*A developer.*
+*It ran out of memory.*
 <!-- script:end JOKE -->
 
 
