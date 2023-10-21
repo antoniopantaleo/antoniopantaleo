@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (20/10/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (21/10/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**.NET developers are picky when it comes to food.**
+**Why do programmers prefer using the dark mode?**
 
-*They only like chicken NuGet.*
+*Because light attracts bugs.*
 <!-- script:end JOKE -->
 
 
