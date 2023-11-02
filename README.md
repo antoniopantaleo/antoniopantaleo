@@ -23,6 +23,8 @@
 
 🎓  I've a master degree in computer engineering
 
+🔀  Git addicted
+
 📱  In my daily life I mainly work as a native iOS developer, but I love learning new things, challenge myself and automate repetitive or boring workflows
 
 🛣  On the road to be a proficient iOS engineer
@@ -42,6 +44,9 @@
 </a>
 <a href="https://github.com/antoniopantaleo/APDynamicGrid">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=apdynamicgrid&hide_border=false" width="39%"/>  
+</a>
+<a href="https://github.com/antoniopantaleo/APDynamicGrid">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=shellkit&hide_border=false" width="33%"/>  
 </a>
 
 
