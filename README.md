@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (02/11/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (03/11/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How can you tell an extroverted programmer?**
+**Why are modern programming languages so materialistic?**
 
-*He looks at YOUR shoes when he's talking.*
+*Because they are object-oriented.*
 <!-- script:end JOKE -->
 
 
