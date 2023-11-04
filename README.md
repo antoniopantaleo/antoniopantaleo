@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (03/11/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (04/11/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are modern programming languages so materialistic?**
+**Hey baby I wish your name was asynchronous...**
 
-*Because they are object-oriented.*
+*... so you'd give me a callback.*
 <!-- script:end JOKE -->
 
 
