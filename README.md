@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (05/11/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (06/11/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**.NET developers are picky when it comes to food.**
+**Why did the programmer jump on the table?**
 
-*They only like chicken NuGet.*
+*Because debug was on his screen.*
 <!-- script:end JOKE -->
 
 
