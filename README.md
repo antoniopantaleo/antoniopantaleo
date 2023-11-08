@@ -39,13 +39,13 @@
 
 ## 🏆 My Latest Projects
 
-<a href="https://github.com/antoniopantaleo/aputils">
+<a href="https://github.com/antoniopantaleo/APUtils">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=aputils&hide_border=false" width="33%"/>  
 </a>
 <a href="https://github.com/antoniopantaleo/APDynamicGrid">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=apdynamicgrid&hide_border=false" width="39%"/>  
 </a>
-<a href="https://github.com/antoniopantaleo/APDynamicGrid">
+<a href="https://github.com/antoniopantaleo/ShellKit">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=shellkit&hide_border=false" width="33%"/>  
 </a>
 
