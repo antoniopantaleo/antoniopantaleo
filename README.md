@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/11/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (13/11/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are Assembly programmers always soaking wet?**
+**Genders are a lot like booleans.**
 
-*They work below C-level.*
+*There's only two of them.*
 <!-- script:end JOKE -->
 
 
