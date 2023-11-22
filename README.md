@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (21/11/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (22/11/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What are bits?**
+**Why are modern programming languages so materialistic?**
 
-*Tiny things left when you drop your computer down the stairs.*
+*Because they are object-oriented.*
 <!-- script:end JOKE -->
 
 
