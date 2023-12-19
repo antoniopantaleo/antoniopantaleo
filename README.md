@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (18/12/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (19/12/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How can you tell an extroverted programmer?**
+**What is the most used language in programming?**
 
-*He looks at YOUR shoes when he's talking.*
+*Profanity.*
 <!-- script:end JOKE -->
 
 
