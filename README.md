@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (23/12/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (24/12/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the database administrator leave his wife?**
+**Hey baby I wish your name was asynchronous...**
 
-*She had one-to-many relationships.*
+*... so you'd give me a callback.*
 <!-- script:end JOKE -->
 
 
