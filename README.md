@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (26/12/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (27/12/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How did the programmer die in the shower?**
+**Hey baby I wish your name was asynchronous...**
 
-*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
+*... so you'd give me a callback.*
 <!-- script:end JOKE -->
 
 
