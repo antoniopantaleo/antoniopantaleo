@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (30/12/2023) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (31/12/2023) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the programmer jump on the table?**
+**Why did the programmer quit his job?**
 
-*Because debug was on his screen.*
+*Because he didn't get arrays.*
 <!-- script:end JOKE -->
 
 
