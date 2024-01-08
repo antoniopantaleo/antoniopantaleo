@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (07/01/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (08/01/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why is Linux safe?**
+**.NET developers are picky when it comes to food.**
 
-*Hackers peak through Windows only.*
+*They only like chicken NuGet.*
 <!-- script:end JOKE -->
 
 
