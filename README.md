@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/01/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/01/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Genders are a lot like booleans.**
+**How did you make your friend rage?**
 
-*There's only two of them.*
+*I implemented a greek question mark in his JavaScript code.*
 <!-- script:end JOKE -->
 
 
