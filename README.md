@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (21/01/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (22/01/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why does no one like SQLrillex?**
+**How did the programmer die in the shower?**
 
-*He keeps dropping the database.*
+*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
 <!-- script:end JOKE -->
 
 
