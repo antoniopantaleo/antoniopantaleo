@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (25/01/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (26/01/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why is Linux safe?**
+**Why do programmers confuse Halloween and Christmas?**
 
-*Hackers peak through Windows only.*
+*Because Oct 31 = Dec 25*
 <!-- script:end JOKE -->
 
 
