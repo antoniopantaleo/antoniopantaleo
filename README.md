@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (29/01/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (30/01/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are modern programming languages so materialistic?**
+**Why do they call it hyper terminal?**
 
-*Because they are object-oriented.*
+*Too much Java.*
 <!-- script:end JOKE -->
 
 
