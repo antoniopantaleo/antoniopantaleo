@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/02/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/02/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Programming is like sex.**
+**Why did the JavaScript heap close shop?**
 
-*Make one mistake and you end up supporting it for the rest of your life.*
+*It ran out of memory.*
 <!-- script:end JOKE -->
 
 
