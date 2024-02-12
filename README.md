@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/02/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/02/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the JavaScript heap close shop?**
+**Why do programmers prefer using the dark mode?**
 
-*It ran out of memory.*
+*Because light attracts bugs.*
 <!-- script:end JOKE -->
 
 
