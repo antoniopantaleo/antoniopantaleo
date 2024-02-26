@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (25/02/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (26/02/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you call a group of 8 Hobbits?**
+**Why are Assembly programmers always soaking wet?**
 
-*A Hobbyte.*
+*They work below C-level.*
 <!-- script:end JOKE -->
 
 
