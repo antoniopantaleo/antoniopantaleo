@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (28/02/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (29/02/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why does no one like SQLrillex?**
+**What is the most used language in programming?**
 
-*He keeps dropping the database.*
+*Profanity.*
 <!-- script:end JOKE -->
 
 
