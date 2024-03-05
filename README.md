@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (04/03/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (05/03/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What are bits?**
+**What is the most used language in programming?**
 
-*Tiny things left when you drop your computer down the stairs.*
+*Profanity.*
 <!-- script:end JOKE -->
 
 
