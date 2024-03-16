@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (15/03/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (16/03/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do Java programmers hate communism?**
+**why do python programmers wear glasses?**
 
-*They don't want to live in a classless society.*
+*Because they can't C.*
 <!-- script:end JOKE -->
 
 
