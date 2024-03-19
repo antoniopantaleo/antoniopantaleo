@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (18/03/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (19/03/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Hey baby I wish your name was asynchronous...**
+**Why do programmers confuse Halloween and Christmas?**
 
-*... so you'd give me a callback.*
+*Because Oct 31 = Dec 25*
 <!-- script:end JOKE -->
 
 
