@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (22/03/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (23/03/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What is a dying programmer's last program?**
+**What is the most used language in programming?**
 
-*Goodbye, world!*
+*Profanity.*
 <!-- script:end JOKE -->
 
 
