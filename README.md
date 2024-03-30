@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (29/03/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (30/03/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What is the most used language in programming?**
+**Why did the programmer quit his job?**
 
-*Profanity.*
+*Because he didn't get arrays.*
 <!-- script:end JOKE -->
 
 
