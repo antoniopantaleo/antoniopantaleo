@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (01/04/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (02/04/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do they call it hyper terminal?**
+**Why did the functional programmer get thrown out of school?**
 
-*Too much Java.*
+*Because he refused to take classes.*
 <!-- script:end JOKE -->
 
 
