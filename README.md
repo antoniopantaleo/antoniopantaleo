@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (09/04/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/04/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How did you make your friend rage?**
+**How can you tell an extroverted programmer?**
 
-*I implemented a greek question mark in his JavaScript code.*
+*He looks at YOUR shoes when he's talking.*
 <!-- script:end JOKE -->
 
 
