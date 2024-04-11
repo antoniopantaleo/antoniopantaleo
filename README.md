@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/04/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/04/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How can you tell an extroverted programmer?**
+**Why did the Python data scientist get arrested at customs?**
 
-*He looks at YOUR shoes when he's talking.*
+*She was caught trying to import pandas!*
 <!-- script:end JOKE -->
 
 
