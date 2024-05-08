@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (07/05/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (08/05/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are modern programming languages so materialistic?**
+**What is a dying programmer's last program?**
 
-*Because they are object-oriented.*
+*Goodbye, world!*
 <!-- script:end JOKE -->
 
 
