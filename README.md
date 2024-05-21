@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (20/05/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (21/05/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How did the programmer die in the shower?**
+**What do you call a developer who doesn't comment code?**
 
-*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
+*A developer.*
 <!-- script:end JOKE -->
 
 
