@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (28/05/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (29/05/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What is a dying programmer's last program?**
+**Why do programmers prefer using the dark mode?**
 
-*Goodbye, world!*
+*Because light attracts bugs.*
 <!-- script:end JOKE -->
 
 
