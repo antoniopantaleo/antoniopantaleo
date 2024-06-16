@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (15/06/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (16/06/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the Python data scientist get arrested at customs?**
+**What do you get if you lock a monkey in a room with a typewriter for 8 hours?**
 
-*She was caught trying to import pandas!*
+*A regular expression.*
 <!-- script:end JOKE -->
 
 
