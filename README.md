@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (20/06/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (21/06/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why does no one like SQLrillex?**
+**What do you call a group of 8 Hobbits?**
 
-*He keeps dropping the database.*
+*A Hobbyte.*
 <!-- script:end JOKE -->
 
 
