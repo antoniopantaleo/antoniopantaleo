@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (28/06/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (29/06/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the database administrator leave his wife?**
+**How do you know God is a shitty programmer?**
 
-*She had one-to-many relationships.*
+*He wrote the OS for an entire universe, but didn't leave a single useful comment.*
 <!-- script:end JOKE -->
 
 
