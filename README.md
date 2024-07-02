@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (01/07/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (02/07/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do they call it hyper terminal?**
+**Why is 6 afraid of 7 in hexadecimal Canada?**
 
-*Too much Java.*
+*Because 7 8 9 A?*
 <!-- script:end JOKE -->
 
 
