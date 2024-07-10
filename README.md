@@ -37,7 +37,7 @@
 
 ## 💻 Currently working on 
 
-<a href="https://github.com/antoniopantaleo/APUtils">
+<a href="https://github.com/antoniopantaleo/libgit2swift">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=libgit2swift&hide_border=false" width="33%"/>  
 </a>
 
