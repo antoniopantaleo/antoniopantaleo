@@ -30,12 +30,16 @@
 🛣  On the road to be a proficient iOS engineer
 
 
-
 ## 🌟 Contributed to
 
 - [ndp/git-cheatsheet](https://github.com/ndp/git-cheatsheet) - Italian Translation
 
 
+## 💻 Currently working on 
+
+<a href="https://github.com/antoniopantaleo/APUtils">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=libgit2swift&hide_border=false" width="33%"/>  
+</a>
 
 ## 🏆 My Latest Projects
 
