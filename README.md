@@ -7,7 +7,7 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (14/07/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (15/07/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
 **Why did the web developer walk out of a resturant in disgust?**
