@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (25/07/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (26/07/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do they call it hyper terminal?**
+**Why did the Python programmer not respond to the foreign mails he got?**
 
-*Too much Java.*
+*Because his interpreter was busy collecting garbage.*
 <!-- script:end JOKE -->
 
 
