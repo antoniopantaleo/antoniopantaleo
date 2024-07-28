@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (27/07/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (28/07/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you call a group of 8 Hobbits?**
+**Why do Java programmers hate communism?**
 
-*A Hobbyte.*
+*They don't want to live in a classless society.*
 <!-- script:end JOKE -->
 
 
