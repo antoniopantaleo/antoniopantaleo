@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/08/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (13/08/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers prefer using the dark mode?**
+**Why did the Python data scientist get arrested at customs?**
 
-*Because light attracts bugs.*
+*She was caught trying to import pandas!*
 <!-- script:end JOKE -->
 
 
