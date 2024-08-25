@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (23/08/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (25/08/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How did the programmer die in the shower?**
+**Why do programmers prefer using the dark mode?**
 
-*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
+*Because light attracts bugs.*
 <!-- script:end JOKE -->
 
 
