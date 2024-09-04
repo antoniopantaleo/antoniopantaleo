@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (03/09/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (04/09/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the JavaScript heap close shop?**
+**Why do Java programmers hate communism?**
 
-*It ran out of memory.*
+*They don't want to live in a classless society.*
 <!-- script:end JOKE -->
 
 
