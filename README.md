@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (15/09/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (16/09/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What is a dying programmer's last program?**
+**What do you call a developer who doesn't comment code?**
 
-*Goodbye, world!*
+*A developer.*
 <!-- script:end JOKE -->
 
 
