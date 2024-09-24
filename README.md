@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (23/09/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (24/09/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the JavaScript heap close shop?**
+**Why did the Python programmer not respond to the foreign mails he got?**
 
-*It ran out of memory.*
+*Because his interpreter was busy collecting garbage.*
 <!-- script:end JOKE -->
 
 
