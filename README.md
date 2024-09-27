@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (26/09/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (27/09/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the web developer walk out of a resturant in disgust?**
+**Why did the Python data scientist get arrested at customs?**
 
-*The seating was laid out in tables.*
+*She was caught trying to import pandas!*
 <!-- script:end JOKE -->
 
 
