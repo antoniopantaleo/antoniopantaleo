@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (08/10/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (09/10/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you call a developer who doesn't comment code?**
+**What's the object-oriented way to become wealthy?**
 
-*A developer.*
+*Inheritance.*
 <!-- script:end JOKE -->
 
 
