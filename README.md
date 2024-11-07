@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (06/11/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (07/11/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**So what's a set of predefined steps the government might take to preserve the environment?**
+**How do you generate a random string?**
 
-*An Al-Gore-ithm.*
+*Put a Windows user in front of Vim and tell them to exit.*
 <!-- script:end JOKE -->
 
 
