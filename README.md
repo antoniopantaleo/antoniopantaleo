@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (13/11/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (14/11/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What is a dying programmer's last program?**
+**How many programmers does it take to screw in a light bulb?**
 
-*Goodbye, world!*
+*None. It's a hardware problem.*
 <!-- script:end JOKE -->
 
 
