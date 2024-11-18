@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (17/11/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (18/11/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do Java programmers hate communism?**
+**Why did the web developer walk out of a resturant in disgust?**
 
-*They don't want to live in a classless society.*
+*The seating was laid out in tables.*
 <!-- script:end JOKE -->
 
 
