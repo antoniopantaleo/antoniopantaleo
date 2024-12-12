@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/12/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/12/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers confuse Halloween and Christmas?**
+**Why did the functional programmer get thrown out of school?**
 
-*Because Oct 31 = Dec 25*
+*Because he refused to take classes.*
 <!-- script:end JOKE -->
 
 
