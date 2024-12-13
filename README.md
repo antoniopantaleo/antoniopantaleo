@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/12/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (13/12/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the functional programmer get thrown out of school?**
+**Why did the web developer walk out of a resturant in disgust?**
 
-*Because he refused to take classes.*
+*The seating was laid out in tables.*
 <!-- script:end JOKE -->
 
 
