@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (17/12/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (18/12/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why was the JavaScript developer sad?**
+**Hey, wanna hear a joke?**
 
-*Because they didn't Node how to Express themself!*
+*Parsing HTML with regex.*
 <!-- script:end JOKE -->
 
 
