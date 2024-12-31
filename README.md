@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (30/12/2024) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (31/12/2024) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why was the JavaScript developer sad?**
+**Why did the programmer quit his job?**
 
-*Because they didn't Node how to Express themself!*
+*Because he didn't get arrays.*
 <!-- script:end JOKE -->
 
 
