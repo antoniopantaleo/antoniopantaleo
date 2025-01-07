@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (06/01/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (07/01/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you call a developer who doesn't comment code?**
+**Why did the programmer quit his job?**
 
-*A developer.*
+*Because he didn't get arrays.*
 <!-- script:end JOKE -->
 
 
