@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (16/01/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (17/01/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why was the JavaScript developer sad?**
+**Why do they call it hyper terminal?**
 
-*Because they didn't Node how to Express themself!*
+*Too much Java.*
 <!-- script:end JOKE -->
 
 
