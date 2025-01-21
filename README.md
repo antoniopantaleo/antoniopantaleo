@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (20/01/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (21/01/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How many programmers does it take to screw in a light bulb?**
+**Why are Assembly programmers always soaking wet?**
 
-*None. It's a hardware problem.*
+*They work below C-level.*
 <!-- script:end JOKE -->
 
 
