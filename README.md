@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (24/01/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (25/01/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Hey baby I wish your name was asynchronous...**
+**Why did the functional programmer get thrown out of school?**
 
-*... so you'd give me a callback.*
+*Because he refused to take classes.*
 <!-- script:end JOKE -->
 
 
