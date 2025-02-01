@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (31/01/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (01/02/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers confuse Halloween and Christmas?**
+**.NET developers are picky when it comes to food.**
 
-*Because Oct 31 = Dec 25*
+*They only like chicken NuGet.*
 <!-- script:end JOKE -->
 
 
