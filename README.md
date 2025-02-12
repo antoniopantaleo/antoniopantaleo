@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/02/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/02/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How do you generate a random string?**
+**What do you get if you lock a monkey in a room with a typewriter for 8 hours?**
 
-*Put a Windows user in front of Vim and tell them to exit.*
+*A regular expression.*
 <!-- script:end JOKE -->
 
 
