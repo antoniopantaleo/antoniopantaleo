@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (17/02/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (19/02/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What are bits?**
+**Why did the programmer quit his job?**
 
-*Tiny things left when you drop your computer down the stairs.*
+*Because he didn't get arrays.*
 <!-- script:end JOKE -->
 
 
