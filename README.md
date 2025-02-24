@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (23/02/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (24/02/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers prefer using the dark mode?**
+**How did you make your friend rage?**
 
-*Because light attracts bugs.*
+*I implemented a greek question mark in his JavaScript code.*
 <!-- script:end JOKE -->
 
 
