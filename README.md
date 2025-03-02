@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (01/03/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (02/03/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the Python programmer not respond to the foreign mails he got?**
+**Why do programmers confuse Halloween and Christmas?**
 
-*Because his interpreter was busy collecting garbage.*
+*Because Oct 31 = Dec 25*
 <!-- script:end JOKE -->
 
 
