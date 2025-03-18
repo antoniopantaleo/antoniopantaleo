@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (17/03/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (18/03/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How many programmers does it take to screw in a light bulb?**
+**Why did the database administrator leave his wife?**
 
-*None. It's a hardware problem.*
+*She had one-to-many relationships.*
 <!-- script:end JOKE -->
 
 
