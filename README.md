@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (21/03/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (22/03/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers prefer using the dark mode?**
+**Why do programmers confuse Halloween and Christmas?**
 
-*Because light attracts bugs.*
+*Because Oct 31 = Dec 25*
 <!-- script:end JOKE -->
 
 
