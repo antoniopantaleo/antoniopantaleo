@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (31/03/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (01/04/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are modern programming languages so materialistic?**
+**Why does no one like SQLrillex?**
 
-*Because they are object-oriented.*
+*He keeps dropping the database.*
 <!-- script:end JOKE -->
 
 
