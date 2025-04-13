@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/04/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (13/04/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are modern programming languages so materialistic?**
+**So what's a set of predefined steps the government might take to preserve the environment?**
 
-*Because they are object-oriented.*
+*An Al-Gore-ithm.*
 <!-- script:end JOKE -->
 
 
