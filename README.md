@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (29/04/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (30/04/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do they call it hyper terminal?**
+**.NET developers are picky when it comes to food.**
 
-*Too much Java.*
+*They only like chicken NuGet.*
 <!-- script:end JOKE -->
 
 
