@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (05/05/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (06/05/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the database administrator leave his wife?**
+**Why did the functional programmer get thrown out of school?**
 
-*She had one-to-many relationships.*
+*Because he refused to take classes.*
 <!-- script:end JOKE -->
 
 
