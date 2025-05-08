@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (07/05/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (08/05/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers confuse Halloween and Christmas?**
+**How can you tell an extroverted programmer?**
 
-*Because Oct 31 = Dec 25*
+*He looks at YOUR shoes when he's talking.*
 <!-- script:end JOKE -->
 
 
