@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/05/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (14/05/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are Assembly programmers always soaking wet?**
+**So what's a set of predefined steps the government might take to preserve the environment?**
 
-*They work below C-level.*
+*An Al-Gore-ithm.*
 <!-- script:end JOKE -->
 
 
