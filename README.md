@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (24/05/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (25/05/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Programming is like sex.**
+**.NET developers are picky when it comes to food.**
 
-*Make one mistake and you end up supporting it for the rest of your life.*
+*They only like chicken NuGet.*
 <!-- script:end JOKE -->
 
 
