@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (27/05/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (28/05/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the web developer walk out of a resturant in disgust?**
+**How do you generate a random string?**
 
-*The seating was laid out in tables.*
+*Put a Windows user in front of Vim and tell them to exit.*
 <!-- script:end JOKE -->
 
 
