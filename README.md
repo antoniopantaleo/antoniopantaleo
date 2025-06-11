@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/06/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/06/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do they call it hyper terminal?**
+**How many programmers does it take to screw in a light bulb?**
 
-*Too much Java.*
+*None. It's a hardware problem.*
 <!-- script:end JOKE -->
 
 
