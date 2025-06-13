@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/06/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (13/06/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the functional programmer get thrown out of school?**
+**How do you generate a random string?**
 
-*Because he refused to take classes.*
+*Put a Windows user in front of Vim and tell them to exit.*
 <!-- script:end JOKE -->
 
 
