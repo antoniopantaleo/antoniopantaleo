@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (14/06/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (15/06/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the web developer walk out of a resturant in disgust?**
+**What's the object-oriented way to become wealthy?**
 
-*The seating was laid out in tables.*
+*Inheritance.*
 <!-- script:end JOKE -->
 
 
