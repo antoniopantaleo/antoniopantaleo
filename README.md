@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (23/06/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (24/06/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are modern programming languages so materialistic?**
+**Why did the Python data scientist get arrested at customs?**
 
-*Because they are object-oriented.*
+*She was caught trying to import pandas!*
 <!-- script:end JOKE -->
 
 
