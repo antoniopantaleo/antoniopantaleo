@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (03/07/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (04/07/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers wear glasses?**
+**Hey, wanna hear a joke?**
 
-*Because they need to C#*
+*Parsing HTML with regex.*
 <!-- script:end JOKE -->
 
 
