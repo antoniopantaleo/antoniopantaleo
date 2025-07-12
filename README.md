@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/07/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/07/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How do you generate a random string?**
+**Why is Linux safe?**
 
-*Put a Windows user in front of Vim and tell them to exit.*
+*Hackers peak through Windows only.*
 <!-- script:end JOKE -->
 
 
