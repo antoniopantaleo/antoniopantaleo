@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (16/07/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (17/07/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the Python programmer not respond to the foreign mails he got?**
+**Why is Linux safe?**
 
-*Because his interpreter was busy collecting garbage.*
+*Hackers peak through Windows only.*
 <!-- script:end JOKE -->
 
 
