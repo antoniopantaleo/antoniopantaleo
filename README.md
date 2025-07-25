@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (24/07/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (25/07/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the database administrator leave his wife?**
+**What do you call a group of 8 Hobbits?**
 
-*She had one-to-many relationships.*
+*A Hobbyte.*
 <!-- script:end JOKE -->
 
 
