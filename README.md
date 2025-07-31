@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (30/07/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (31/07/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the programmer quit his job?**
+**Why do Java programmers hate communism?**
 
-*Because he didn't get arrays.*
+*They don't want to live in a classless society.*
 <!-- script:end JOKE -->
 
 
