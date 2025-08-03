@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (02/08/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (03/08/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What is a dying programmer's last program?**
+**What's the object-oriented way to become wealthy?**
 
-*Goodbye, world!*
+*Inheritance.*
 <!-- script:end JOKE -->
 
 
