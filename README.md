@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (15/08/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (16/08/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do they call it hyper terminal?**
+**What do you get if you lock a monkey in a room with a typewriter for 8 hours?**
 
-*Too much Java.*
+*A regular expression.*
 <!-- script:end JOKE -->
 
 
