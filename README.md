@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (25/08/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (26/08/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the Python programmer not respond to the foreign mails he got?**
+**Hey, wanna hear a joke?**
 
-*Because his interpreter was busy collecting garbage.*
+*Parsing HTML with regex.*
 <!-- script:end JOKE -->
 
 
