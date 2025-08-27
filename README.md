@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (26/08/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (27/08/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Hey, wanna hear a joke?**
+**What do you call a group of 8 Hobbits?**
 
-*Parsing HTML with regex.*
+*A Hobbyte.*
 <!-- script:end JOKE -->
 
 
