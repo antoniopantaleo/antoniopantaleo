@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (31/08/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (01/09/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How can you tell an extroverted programmer?**
+**Why do programmers prefer using the dark mode?**
 
-*He looks at YOUR shoes when he's talking.*
+*Because light attracts bugs.*
 <!-- script:end JOKE -->
 
 
