@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (02/09/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (03/09/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why is Linux safe?**
+**How did you make your friend rage?**
 
-*Hackers peak through Windows only.*
+*I implemented a greek question mark in his JavaScript code.*
 <!-- script:end JOKE -->
 
 
