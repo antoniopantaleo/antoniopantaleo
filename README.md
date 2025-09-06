@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (05/09/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (06/09/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers wear glasses?**
+**Why is 6 afraid of 7 in hexadecimal Canada?**
 
-*Because they need to C#*
+*Because 7 8 9 A?*
 <!-- script:end JOKE -->
 
 
