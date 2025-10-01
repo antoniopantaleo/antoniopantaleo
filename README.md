@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (30/09/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (01/10/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How many programmers does it take to screw in a light bulb?**
+**Why do programmers prefer using the dark mode?**
 
-*None. It's a hardware problem.*
+*Because light attracts bugs.*
 <!-- script:end JOKE -->
 
 
