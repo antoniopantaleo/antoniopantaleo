@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (04/11/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (05/11/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How can you tell an extroverted programmer?**
+**Why is 6 afraid of 7 in hexadecimal Canada?**
 
-*He looks at YOUR shoes when he's talking.*
+*Because 7 8 9 A?*
 <!-- script:end JOKE -->
 
 
