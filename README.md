@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (05/11/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (06/11/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why is 6 afraid of 7 in hexadecimal Canada?**
+**What is a dying programmer's last program?**
 
-*Because 7 8 9 A?*
+*Goodbye, world!*
 <!-- script:end JOKE -->
 
 
