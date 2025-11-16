@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (15/11/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (16/11/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why does no one like SQLrillex?**
+**What do you get if you lock a monkey in a room with a typewriter for 8 hours?**
 
-*He keeps dropping the database.*
+*A regular expression.*
 <!-- script:end JOKE -->
 
 
