@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (29/11/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (30/11/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the programmer quit his job?**
+**How can you tell an extroverted programmer?**
 
-*Because he didn't get arrays.*
+*He looks at YOUR shoes when he's talking.*
 <!-- script:end JOKE -->
 
 
