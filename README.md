@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (30/11/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (01/12/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How can you tell an extroverted programmer?**
+**Why are Assembly programmers always soaking wet?**
 
-*He looks at YOUR shoes when he's talking.*
+*They work below C-level.*
 <!-- script:end JOKE -->
 
 
