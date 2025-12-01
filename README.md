@@ -34,6 +34,10 @@
 
 - [ndp/git-cheatsheet](https://github.com/ndp/git-cheatsheet) - Italian Translation
 
+----
+> [!WARNING]
+> If you see some bad UI or missing content down there, it's related to [this issue](https://github.com/anuraghazra/github-readme-stats/issues/4658)
+----
 
 ## 💻 Currently working on 
 
