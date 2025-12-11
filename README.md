@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/12/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/12/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How do you generate a random string?**
+**Why are modern programming languages so materialistic?**
 
-*Put a Windows user in front of Vim and tell them to exit.*
+*Because they are object-oriented.*
 <!-- script:end JOKE -->
 
 
