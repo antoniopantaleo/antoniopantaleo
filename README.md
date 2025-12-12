@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/12/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/12/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are modern programming languages so materialistic?**
+**What's the object-oriented way to become wealthy?**
 
-*Because they are object-oriented.*
+*Inheritance.*
 <!-- script:end JOKE -->
 
 
