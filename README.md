@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (18/12/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (19/12/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What are bits?**
+**Why do programmers wear glasses?**
 
-*Tiny things left when you drop your computer down the stairs.*
+*Because they need to C#*
 <!-- script:end JOKE -->
 
 
