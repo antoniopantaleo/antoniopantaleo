@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (24/12/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (25/12/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Programming is like sex.**
+**Why is Linux safe?**
 
-*Make one mistake and you end up supporting it for the rest of your life.*
+*Hackers peak through Windows only.*
 <!-- script:end JOKE -->
 
 
