@@ -7,12 +7,12 @@
 <img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (25/12/2025) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (26/12/2025) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why is Linux safe?**
+**Why did the programmer quit his job?**
 
-*Hackers peak through Windows only.*
+*Because he didn't get arrays.*
 <!-- script:end JOKE -->
 
 
