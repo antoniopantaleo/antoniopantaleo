@@ -1,0 +1,30 @@
+name: Generate Trophies SVG
+on:
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install docker
+        uses: docker/setup-docker-action@v4.7.0
+      - name: Login to docker
+        uses: docker/login-action@v3.6.0
+        with:
+          registry: ghcr.io
+          username: antoniopantaleo
+          password: ${{ secrets.GITHUB_TOKEN }}
+      - name: Run thropies
+        run: | 
+          docker run \
+          --name trophies \
+          --rm -p 80:8080 \ 
+          -e GITHUB_TOKEN1="${{ secrets.GITHUB_TOKEN }}" \ 
+          ghcr.io/antoniopantaleo/github-profile-trophy:latest
+      - name: Generate image into assets
+        run: |
+          mkdir -p assets/generated
+          wget -O assets/generated/result.png "http://localhost?username=antoniopantaleo&title=-Reviews&column=4"
+      - name: Stop container
+        run: docker stop trophies || true
+      
