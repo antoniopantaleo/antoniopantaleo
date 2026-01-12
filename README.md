@@ -4,7 +4,6 @@
 <span>
 <img align="right" alt="octocat" width="29%" src="assets/octocat.png" />
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
-<img width="67%" src="https://github-profile-trophy.vercel.app?username=antoniopantaleo&no-frame=true&margin-w=3&row=1"/>
 </span>
 
 ## 📆 Joke of the day <!-- script:start TODAY --> (12/01/2026) <!-- script:end TODAY -->
@@ -33,47 +32,6 @@
 ## 🌟 Contributed to
 
 - [ndp/git-cheatsheet](https://github.com/ndp/git-cheatsheet) - Italian Translation
-
-----
-> [!WARNING]
-> If you see some bad UI or missing content down there, it's related to [this issue](https://github.com/anuraghazra/github-readme-stats/issues/4658)
-----
-
-## 💻 Currently working on 
-
-<a href="https://github.com/antoniopantaleo/libgit2swift">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=libgit2swift&hide_border=false" width="33%"/>  
-</a>
-
-## 🏆 My Latest Projects
-
-<a href="https://github.com/antoniopantaleo/APUtils">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=aputils&hide_border=false" width="33%"/>  
-</a>
-<a href="https://github.com/antoniopantaleo/APDynamicGrid">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=apdynamicgrid&hide_border=false" width="39%"/>  
-</a>
-<a href="https://github.com/antoniopantaleo/ShellKit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniopantaleo&repo=shellkit&hide_border=false" width="33%"/>  
-</a>
-
-
-
-## 📈 Stats
-
-<span>
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniopantaleo&layout=compact" width="22.5%"/>
-<a/>
-  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=antoniopantaleo&hide_border=false&date_format=j%2Fn%5B%2FY%5D" width="31.5%"/>
-
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api?username=antoniopantaleo&show_icons=true&hide_border=false&count_private=true&hide=issues&custom_title=Stats&icon_color=DE5D43&disable_animations=true" width="34%"/>
-<a/>
-<span/>
- 
-  
   
 ## 🔍 Find me
   
