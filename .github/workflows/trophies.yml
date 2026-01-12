@@ -15,12 +15,7 @@ jobs:
           username: antoniopantaleo
           password: ${{ secrets.GITHUB_TOKEN }}
       - name: Run thropies
-        run: | 
-          docker run \
-          --name trophies \
-          --rm -p 80:8080 \ 
-          -e GITHUB_TOKEN1="${{ secrets.GITHUB_TOKEN }}" \ 
-          ghcr.io/antoniopantaleo/github-profile-trophy:latest
+        run: docker run --name trophies --rm -p 80:8080 -e GITHUB_TOKEN1="${{ secrets.GITHUB_TOKEN }}" ghcr.io/antoniopantaleo/github-profile-trophy:latest
       - name: Generate image into assets
         run: |
           mkdir -p assets/generated
