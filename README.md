@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (27/01/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (28/01/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the JavaScript heap close shop?**
+**Why are Assembly programmers always soaking wet?**
 
-*It ran out of memory.*
+*They work below C-level.*
 <!-- script:end JOKE -->
 
 
