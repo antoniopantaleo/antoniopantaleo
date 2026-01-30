@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (29/01/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (30/01/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What's the object-oriented way to become wealthy?**
+**Why are Assembly programmers always soaking wet?**
 
-*Inheritance.*
+*They work below C-level.*
 <!-- script:end JOKE -->
 
 
