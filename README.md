@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (31/01/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (01/02/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How do you know God is a shitty programmer?**
+**Why are modern programming languages so materialistic?**
 
-*He wrote the OS for an entire universe, but didn't leave a single useful comment.*
+*Because they are object-oriented.*
 <!-- script:end JOKE -->
 
 
