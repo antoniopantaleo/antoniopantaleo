@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (02/02/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (03/02/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are modern programming languages so materialistic?**
+**How can you tell an extroverted programmer?**
 
-*Because they are object-oriented.*
+*He looks at YOUR shoes when he's talking.*
 <!-- script:end JOKE -->
 
 
