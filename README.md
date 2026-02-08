@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (07/02/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (08/02/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How did the programmer die in the shower?**
+**What do you call a group of 8 Hobbits?**
 
-*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
+*A Hobbyte.*
 <!-- script:end JOKE -->
 
 
