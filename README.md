@@ -6,7 +6,7 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (13/02/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (14/02/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
 **What do you call a developer who doesn't comment code?**
