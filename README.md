@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (15/02/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (16/02/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers prefer using the dark mode?**
+**Why did the Python programmer not respond to the foreign mails he got?**
 
-*Because light attracts bugs.*
+*Because his interpreter was busy collecting garbage.*
 <!-- script:end JOKE -->
 
 
