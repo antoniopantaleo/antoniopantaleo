@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (01/03/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (02/03/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers prefer using the dark mode?**
+**Why are modern programming languages so materialistic?**
 
-*Because light attracts bugs.*
+*Because they are object-oriented.*
 <!-- script:end JOKE -->
 
 
