@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (02/03/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (03/03/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are modern programming languages so materialistic?**
+**Why do programmers wear glasses?**
 
-*Because they are object-oriented.*
+*Because they need to C#*
 <!-- script:end JOKE -->
 
 
