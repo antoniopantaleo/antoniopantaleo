@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (03/03/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (04/03/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers wear glasses?**
+**Why is Linux safe?**
 
-*Because they need to C#*
+*Hackers peak through Windows only.*
 <!-- script:end JOKE -->
 
 
