@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (20/03/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (21/03/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why is Linux safe?**
+**What are bits?**
 
-*Hackers peak through Windows only.*
+*Tiny things left when you drop your computer down the stairs.*
 <!-- script:end JOKE -->
 
 
