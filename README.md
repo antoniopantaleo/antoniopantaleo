@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (30/03/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (31/03/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are Assembly programmers always soaking wet?**
+**Hey baby I wish your name was asynchronous...**
 
-*They work below C-level.*
+*... so you'd give me a callback.*
 <!-- script:end JOKE -->
 
 
