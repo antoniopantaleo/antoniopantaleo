@@ -26,8 +26,6 @@
 
 📱  In my daily life I mainly work as a native iOS developer, but I love learning new things, challenge myself and automate repetitive or boring workflows
 
-🛣  On the road to be a proficient iOS engineer
-
 
 ## 🌟 Contributed to
 
