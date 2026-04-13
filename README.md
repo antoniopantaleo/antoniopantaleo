@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/04/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (13/04/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What do you get if you lock a monkey in a room with a typewriter for 8 hours?**
+**Programming is like sex.**
 
-*A regular expression.*
+*Make one mistake and you end up supporting it for the rest of your life.*
 <!-- script:end JOKE -->
 
 
