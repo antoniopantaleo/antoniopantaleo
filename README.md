@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (13/04/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (14/04/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Programming is like sex.**
+**What do you call a group of 8 Hobbits?**
 
-*Make one mistake and you end up supporting it for the rest of your life.*
+*A Hobbyte.*
 <!-- script:end JOKE -->
 
 
