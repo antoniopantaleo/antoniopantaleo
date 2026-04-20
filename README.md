@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (19/04/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (20/04/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Programming is like sex.**
+**Why does no one like SQLrillex?**
 
-*Make one mistake and you end up supporting it for the rest of your life.*
+*He keeps dropping the database.*
 <!-- script:end JOKE -->
 
 
