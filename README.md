@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (24/04/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (25/04/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How can you tell an extroverted programmer?**
+**What's the object-oriented way to become wealthy?**
 
-*He looks at YOUR shoes when he's talking.*
+*Inheritance.*
 <!-- script:end JOKE -->
 
 
