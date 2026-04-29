@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (28/04/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (29/04/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers wear glasses?**
+**So what's a set of predefined steps the government might take to preserve the environment?**
 
-*Because they need to C#*
+*An Al-Gore-ithm.*
 <!-- script:end JOKE -->
 
 
