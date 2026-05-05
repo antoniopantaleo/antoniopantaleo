@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (04/05/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (05/05/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why does no one like SQLrillex?**
+**What are bits?**
 
-*He keeps dropping the database.*
+*Tiny things left when you drop your computer down the stairs.*
 <!-- script:end JOKE -->
 
 
