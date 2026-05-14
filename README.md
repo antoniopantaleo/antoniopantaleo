@@ -18,7 +18,7 @@
 
 ## 🧑🏽‍💻 About 
 
-🏡  <!-- script:start AGE --> 29 <!-- script:end AGE --> years old developer based in Turin, Italy
+🏡  <!-- script:start AGE --> 30 <!-- script:end AGE --> years old developer based in Turin, Italy
 
 🎓  I've a master degree in computer engineering
 
