@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (15/05/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (16/05/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**.NET developers are picky when it comes to food.**
+**So what's a set of predefined steps the government might take to preserve the environment?**
 
-*They only like chicken NuGet.*
+*An Al-Gore-ithm.*
 <!-- script:end JOKE -->
 
 
