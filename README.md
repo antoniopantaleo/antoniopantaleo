@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (21/05/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (22/05/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How do you generate a random string?**
+**What's the object-oriented way to become wealthy?**
 
-*Put a Windows user in front of Vim and tell them to exit.*
+*Inheritance.*
 <!-- script:end JOKE -->
 
 
