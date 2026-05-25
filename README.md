@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (24/05/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (25/05/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers confuse Halloween and Christmas?**
+**Why does no one like SQLrillex?**
 
-*Because Oct 31 = Dec 25*
+*He keeps dropping the database.*
 <!-- script:end JOKE -->
 
 
