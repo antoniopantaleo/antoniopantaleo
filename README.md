@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (28/05/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (29/05/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the functional programmer get thrown out of school?**
+**Why do Java programmers hate communism?**
 
-*Because he refused to take classes.*
+*They don't want to live in a classless society.*
 <!-- script:end JOKE -->
 
 
