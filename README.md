@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (31/05/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (01/06/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do they call it hyper terminal?**
+**How can you tell an extroverted programmer?**
 
-*Too much Java.*
+*He looks at YOUR shoes when he's talking.*
 <!-- script:end JOKE -->
 
 
