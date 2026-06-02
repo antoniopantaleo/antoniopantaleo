@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (01/06/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (02/06/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How can you tell an extroverted programmer?**
+**Why do programmers confuse Halloween and Christmas?**
 
-*He looks at YOUR shoes when he's talking.*
+*Because Oct 31 = Dec 25*
 <!-- script:end JOKE -->
 
 
