@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (07/06/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (08/06/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the programmer jump on the table?**
+**Why did the JavaScript heap close shop?**
 
-*Because debug was on his screen.*
+*It ran out of memory.*
 <!-- script:end JOKE -->
 
 
