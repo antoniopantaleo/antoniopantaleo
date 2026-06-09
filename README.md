@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (08/06/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (09/06/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the JavaScript heap close shop?**
+**Why did the programmer quit his job?**
 
-*It ran out of memory.*
+*Because he didn't get arrays.*
 <!-- script:end JOKE -->
 
 
