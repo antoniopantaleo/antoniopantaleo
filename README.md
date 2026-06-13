@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (12/06/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (13/06/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers confuse Halloween and Christmas?**
+**How do you generate a random string?**
 
-*Because Oct 31 = Dec 25*
+*Put a Windows user in front of Vim and tell them to exit.*
 <!-- script:end JOKE -->
 
 
