@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (17/06/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (18/06/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why is 6 afraid of 7 in hexadecimal Canada?**
+**Why are Assembly programmers always soaking wet?**
 
-*Because 7 8 9 A?*
+*They work below C-level.*
 <!-- script:end JOKE -->
 
 
