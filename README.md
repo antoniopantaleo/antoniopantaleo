@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (02/07/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (03/07/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why does no one like SQLrillex?**
+**So what's a set of predefined steps the government might take to preserve the environment?**
 
-*He keeps dropping the database.*
+*An Al-Gore-ithm.*
 <!-- script:end JOKE -->
 
 
