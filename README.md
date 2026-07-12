@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (11/07/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (12/07/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why was the JavaScript developer sad?**
+**What do you get if you lock a monkey in a room with a typewriter for 8 hours?**
 
-*Because they didn't Node how to Express themself!*
+*A regular expression.*
 <!-- script:end JOKE -->
 
 
