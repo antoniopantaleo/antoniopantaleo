@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (17/07/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (18/07/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How did the programmer die in the shower?**
+**Why do programmers confuse Halloween and Christmas?**
 
-*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
+*Because Oct 31 = Dec 25*
 <!-- script:end JOKE -->
 
 
