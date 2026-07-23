@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (22/07/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (23/07/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why is Linux safe?**
+**So what's a set of predefined steps the government might take to preserve the environment?**
 
-*Hackers peak through Windows only.*
+*An Al-Gore-ithm.*
 <!-- script:end JOKE -->
 
 
