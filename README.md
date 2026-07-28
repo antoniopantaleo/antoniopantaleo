@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (27/07/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (28/07/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are Assembly programmers always soaking wet?**
+**Why did the programmer quit his job?**
 
-*They work below C-level.*
+*Because he didn't get arrays.*
 <!-- script:end JOKE -->
 
 
