@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (30/07/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (31/07/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why are Assembly programmers always soaking wet?**
+**Why do Java programmers hate communism?**
 
-*They work below C-level.*
+*They don't want to live in a classless society.*
 <!-- script:end JOKE -->
 
 
