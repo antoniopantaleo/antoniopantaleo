@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (03/08/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (04/08/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why is Linux safe?**
+**Hey, wanna hear a joke?**
 
-*Hackers peak through Windows only.*
+*Parsing HTML with regex.*
 <!-- script:end JOKE -->
 
 
