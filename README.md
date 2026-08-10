@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (09/08/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (10/08/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do Java programmers hate communism?**
+**Programming is like sex.**
 
-*They don't want to live in a classless society.*
+*Make one mistake and you end up supporting it for the rest of your life.*
 <!-- script:end JOKE -->
 
 
