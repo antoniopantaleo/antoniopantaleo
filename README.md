@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (10/08/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (11/08/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Programming is like sex.**
+**Why is 6 afraid of 7 in hexadecimal Canada?**
 
-*Make one mistake and you end up supporting it for the rest of your life.*
+*Because 7 8 9 A?*
 <!-- script:end JOKE -->
 
 
