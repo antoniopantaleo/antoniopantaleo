@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (13/08/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (14/08/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why was the JavaScript developer sad?**
+**Why did the programmer quit his job?**
 
-*Because they didn't Node how to Express themself!*
+*Because he didn't get arrays.*
 <!-- script:end JOKE -->
 
 
