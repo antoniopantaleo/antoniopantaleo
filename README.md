@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (16/08/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (17/08/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What are bits?**
+**What is a dying programmer's last program?**
 
-*Tiny things left when you drop your computer down the stairs.*
+*Goodbye, world!*
 <!-- script:end JOKE -->
 
 
