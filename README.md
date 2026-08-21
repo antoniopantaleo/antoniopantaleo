@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (20/08/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (21/08/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How many programmers does it take to screw in a light bulb?**
+**Programming is like sex.**
 
-*None. It's a hardware problem.*
+*Make one mistake and you end up supporting it for the rest of your life.*
 <!-- script:end JOKE -->
 
 
