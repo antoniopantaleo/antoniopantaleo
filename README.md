@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (02/09/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (03/09/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the Python data scientist get arrested at customs?**
+**What are bits?**
 
-*She was caught trying to import pandas!*
+*Tiny things left when you drop your computer down the stairs.*
 <!-- script:end JOKE -->
 
 
