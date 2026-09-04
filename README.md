@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (03/09/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (04/09/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What are bits?**
+**Why do programmers prefer using the dark mode?**
 
-*Tiny things left when you drop your computer down the stairs.*
+*Because light attracts bugs.*
 <!-- script:end JOKE -->
 
 
