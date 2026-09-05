@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (04/09/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (05/09/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why do programmers prefer using the dark mode?**
+**What is the most used language in programming?**
 
-*Because light attracts bugs.*
+*Profanity.*
 <!-- script:end JOKE -->
 
 
