@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (05/09/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (06/09/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**What is the most used language in programming?**
+**Why did the web developer walk out of a resturant in disgust?**
 
-*Profanity.*
+*The seating was laid out in tables.*
 <!-- script:end JOKE -->
 
 
