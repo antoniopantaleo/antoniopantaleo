@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (06/09/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (07/09/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why did the web developer walk out of a resturant in disgust?**
+**Hey baby I wish your name was asynchronous...**
 
-*The seating was laid out in tables.*
+*... so you'd give me a callback.*
 <!-- script:end JOKE -->
 
 
