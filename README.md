@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (13/09/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (14/09/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How do you know God is a shitty programmer?**
+**How did you make your friend rage?**
 
-*He wrote the OS for an entire universe, but didn't leave a single useful comment.*
+*I implemented a greek question mark in his JavaScript code.*
 <!-- script:end JOKE -->
 
 
