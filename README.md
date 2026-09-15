@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (14/09/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (15/09/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How did you make your friend rage?**
+**Why is 6 afraid of 7 in hexadecimal Canada?**
 
-*I implemented a greek question mark in his JavaScript code.*
+*Because 7 8 9 A?*
 <!-- script:end JOKE -->
 
 
