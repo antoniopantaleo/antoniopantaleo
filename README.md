@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (23/09/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (24/09/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Why was the JavaScript developer sad?**
+**What is the most used language in programming?**
 
-*Because they didn't Node how to Express themself!*
+*Profanity.*
 <!-- script:end JOKE -->
 
 
