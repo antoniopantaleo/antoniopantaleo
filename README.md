@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (25/09/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (26/09/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Hey baby I wish your name was asynchronous...**
+**How do you generate a random string?**
 
-*... so you'd give me a callback.*
+*Put a Windows user in front of Vim and tell them to exit.*
 <!-- script:end JOKE -->
 
 
