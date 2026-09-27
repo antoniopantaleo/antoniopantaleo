@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (26/09/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (27/09/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How do you generate a random string?**
+**.NET developers are picky when it comes to food.**
 
-*Put a Windows user in front of Vim and tell them to exit.*
+*They only like chicken NuGet.*
 <!-- script:end JOKE -->
 
 
