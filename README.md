@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (27/09/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (28/09/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**.NET developers are picky when it comes to food.**
+**Programming is like sex.**
 
-*They only like chicken NuGet.*
+*Make one mistake and you end up supporting it for the rest of your life.*
 <!-- script:end JOKE -->
 
 
