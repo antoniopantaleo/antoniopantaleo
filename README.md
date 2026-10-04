@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (03/10/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (04/10/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**How can you tell an extroverted programmer?**
+**Why is Linux safe?**
 
-*He looks at YOUR shoes when he's talking.*
+*Hackers peak through Windows only.*
 <!-- script:end JOKE -->
 
 
