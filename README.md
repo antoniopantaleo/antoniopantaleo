@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (01/11/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (02/11/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Programming is like sex.**
+**What's the object-oriented way to become wealthy?**
 
-*Make one mistake and you end up supporting it for the rest of your life.*
+*Inheritance.*
 <!-- script:end JOKE -->
 
 
