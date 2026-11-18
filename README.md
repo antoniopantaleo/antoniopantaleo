@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (17/11/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (18/11/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**why do python programmers wear glasses?**
+**Why was the JavaScript developer sad?**
 
-*Because they can't C.*
+*Because they didn't Node how to Express themself!*
 <!-- script:end JOKE -->
 
 
