@@ -6,12 +6,12 @@
 <h1>Hi 👋 <br/> I'm Antonio Pantaleo</h1>
 </span>
 
-## 📆 Joke of the day <!-- script:start TODAY --> (24/11/2026) <!-- script:end TODAY -->
+## 📆 Joke of the day <!-- script:start TODAY --> (25/11/2026) <!-- script:end TODAY -->
 
 <!-- script:start JOKE -->
-**Hey, wanna hear a joke?**
+**How many programmers does it take to screw in a light bulb?**
 
-*Parsing HTML with regex.*
+*None. It's a hardware problem.*
 <!-- script:end JOKE -->
 
 
